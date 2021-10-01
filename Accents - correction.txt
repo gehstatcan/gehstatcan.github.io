@@ -1,0 +1,7 @@
+Les fichiers htm ont été créés avec Word (jadis...). Le "encoding" n'est pas bon... Pour Github, il faut absolument choisir UTF-8. Voici comment (j'ai Word 2013):
+
+Enregistrer sous...
+	Type : Page web (*.htm, *.html)
+	en bas à droite, "Outils", "Option web", 
+	Onglet Codage
+	Type de fichier : Unicode (UTF-8)
