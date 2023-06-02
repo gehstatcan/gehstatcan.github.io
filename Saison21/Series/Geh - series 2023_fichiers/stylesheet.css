@@ -235,20 +235,6 @@ td
 	mso-pattern:black none;
 	white-space:normal;}
 .xl79
-	{mso-style-parent:style62;
-	color:blue;
-	font-family:Verdana, sans-serif;
-	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:none;
-	background:white;
-	mso-pattern:black none;
-	white-space:normal;}
-.xl80
 	{mso-style-parent:style0;
 	color:blue;
 	font-family:Verdana, sans-serif;
@@ -260,7 +246,7 @@ td
 	white-space:normal;
 	padding-left:12px;
 	mso-char-indent-count:1;}
-.xl81
+.xl80
 	{mso-style-parent:style0;
 	color:navy;
 	font-family:Verdana, sans-serif;
@@ -270,13 +256,13 @@ td
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl82
+.xl81
 	{mso-style-parent:style0;
 	text-align:left;
 	vertical-align:middle;
 	padding-left:12px;
 	mso-char-indent-count:1;}
-.xl83
+.xl82
 	{mso-style-parent:style62;
 	color:blue;
 	font-family:Verdana, sans-serif;
@@ -286,7 +272,7 @@ td
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl84
+.xl83
 	{mso-style-parent:style0;
 	color:black;
 	font-weight:700;
@@ -296,7 +282,7 @@ td
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl85
+.xl84
 	{mso-style-parent:style62;
 	color:blue;
 	font-weight:700;
@@ -309,7 +295,7 @@ td
 	white-space:normal;
 	padding-left:12px;
 	mso-char-indent-count:1;}
-.xl86
+.xl85
 	{mso-style-parent:style62;
 	color:blue;
 	font-weight:700;
@@ -320,7 +306,7 @@ td
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl87
+.xl86
 	{mso-style-parent:style62;
 	color:blue;
 	font-family:Verdana, sans-serif;
@@ -334,13 +320,27 @@ td
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl88
+.xl87
 	{mso-style-parent:style0;
 	color:blue;
 	font-family:Verdana, sans-serif;
 	mso-font-charset:0;
 	text-align:left;
 	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl88
+	{mso-style-parent:style62;
+	color:blue;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
@@ -454,27 +454,12 @@ td
 .xl102
 	{mso-style-parent:style62;
 	color:blue;
-	text-decoration:underline;
-	text-underline-style:single;
-	text-align:left;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;
-	background:white;
-	mso-pattern:black none;
-	white-space:normal;
-	padding-left:12px;
-	mso-char-indent-count:1;}
-.xl103
-	{mso-style-parent:style62;
-	color:blue;
+	font-weight:700;
 	font-family:Verdana, sans-serif;
 	mso-font-charset:0;
 	text-align:left;
 	vertical-align:middle;
-	border-top:.5pt solid windowtext;
+	border-top:none;
 	border-right:.5pt solid windowtext;
 	border-bottom:none;
 	border-left:none;
