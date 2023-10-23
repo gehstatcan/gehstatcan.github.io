@@ -1,44 +1,16 @@
 [
   {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Test",
+    "section": "",
+    "text": "Vers calendrier : calendrier\nSaison 2023-2024\nVous voyez une erreur sur le site, contactez moi : martin.sirois70@gmail.com."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "GEH Statcan",
     "section": "",
-    "text": "Nouveau site de la ligue de génies en herbe.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "calendrier.html",
-    "href": "calendrier.html",
-    "title": "Calendrier",
-    "section": "",
-    "text": "[1] \"Canada/Eastern\""
-  },
-  {
-    "objectID": "calendrier.html#voici-le-calendrier-pour-la-saison-2023-2022",
-    "href": "calendrier.html#voici-le-calendrier-pour-la-saison-2023-2022",
-    "title": "Calendrier",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "calendrier.html#calendrier",
-    "href": "calendrier.html#calendrier",
-    "title": "GEH - Statcan, Calendrier",
-    "section": "",
-    "text": "[1] \"Canada/Eastern\""
-  },
-  {
-    "objectID": "calendrier.html#calendrier-pour-la-saison-2022-2023-test",
-    "href": "calendrier.html#calendrier-pour-la-saison-2022-2023-test",
-    "title": "Calendrier",
-    "section": "",
-    "text": "[1] \"Canada/Eastern\""
+    "text": "Nouveau site de la ligue de génies en herbe.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

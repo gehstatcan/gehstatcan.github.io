@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>GEH Statcan</title>
+<title>GEH Statcan – classement</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -60,6 +60,14 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+<script src="site_libs/core-js-2.5.3/shim.min.js"></script>
+<script src="site_libs/react-17.0.0/react.min.js"></script>
+<script src="site_libs/react-17.0.0/react-dom.min.js"></script>
+<script src="site_libs/reactwidget-1.0.0/react-tools.js"></script>
+<script src="site_libs/htmlwidgets-1.6.2/htmlwidgets.js"></script>
+<link href="site_libs/reactable-0.4.4/reactable.css" rel="stylesheet">
+<script src="site_libs/reactable-binding-0.4.4/reactable.js"></script>
+
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -82,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -94,7 +102,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Calendrier</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./classement.html" rel="" target="">
+    <a class="nav-link active" href="./classement.html" rel="" target="" aria-current="page">
  <span class="menu-text">Classement</span></a>
   </li>  
   <li class="nav-item">
@@ -116,27 +124,21 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">GEH Statcan</h1>
+
+
+<section id="classement-var-saison" class="level2">
+<h2 class="anchored" data-anchor-id="classement-var-saison">Classement 2023-2024</h2>
+<!--# Code à rouler en premier. Inclus dans _lectureCSV. -->
+<div class="cell">
+<div class="cell-output-display">
+
+<div class="reactable html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-9d4815360c1d191cb5b8" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-9d4815360c1d191cb5b8">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Position":[1,2,3,3,3,3,7,8],"NomÉquipe":["Les Faciles à cuire","Les Méthos précieux","Les Bons Perdants","Les érudits en gerbe","Les 12e meilleurs","Les Génies de la traduction","Les Disciples de Yaourt","Les Herbizarres"],"PJ":[1,1,0,0,0,0,1,1],"G":[1,1,0,0,0,0,0,0],"GP":[0,0,0,0,0,0,0,0],"PN":[0,0,0,0,0,0,0,0],"PP":[0,0,0,0,0,0,0,0],"P":[0,0,0,0,0,0,1,1],"Pts":[4,4,0,0,0,0,0,0],"%":[100,100,0,0,0,0,0,0],"Pour":[405,385,0,0,0,0,340,325],"Contre":[325,340,0,0,0,0,385,405],"Diff":[80,45,0,0,0,0,-45,-80]},"columns":[{"id":"Position","name":"Pos","type":"numeric","cell":["1","2","3","3","3","3","7","8"],"header":"Pos","maxWidth":40,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"NomÉquipe","name":"Équipe","type":"character","cell":["Les Faciles à cuire","Les Méthos précieux","Les Bons Perdants","Les érudits en gerbe","Les 12e meilleurs","Les Génies de la traduction","Les Disciples de Yaourt","Les Herbizarres"],"header":"Équipe","maxWidth":270,"align":"left","headerStyle":{"background":"#f7f7f8"}},{"id":"PJ","name":"PJ","type":"numeric","cell":["1","1","0","0","0","0","1","1"],"header":"PJ","maxWidth":40,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"G","name":"G","type":"numeric","cell":["1","1","0","0","0","0","0","0"],"header":"G","maxWidth":40,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"GP","name":"GP","type":"numeric","cell":["0","0","0","0","0","0","0","0"],"header":"GP","maxWidth":40,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"PN","name":"PN","type":"numeric","cell":["0","0","0","0","0","0","0","0"],"header":"PN","maxWidth":40,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"PP","name":"PP","type":"numeric","cell":["0","0","0","0","0","0","0","0"],"header":"PP","maxWidth":40,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"P","name":"P","type":"numeric","cell":["0","0","0","0","0","0","1","1"],"header":"P","maxWidth":40,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"Pts","name":"Pts","type":"numeric","cell":[{"name":"strong","attribs":{},"children":["4"]},{"name":"strong","attribs":{},"children":["4"]},{"name":"strong","attribs":{},"children":["0"]},{"name":"strong","attribs":{},"children":["0"]},{"name":"strong","attribs":{},"children":["0"]},{"name":"strong","attribs":{},"children":["0"]},{"name":"strong","attribs":{},"children":["0"]},{"name":"strong","attribs":{},"children":["0"]}],"header":{"name":"strong","attribs":{},"children":[{"name":"em","attribs":{},"children":["Pts"]}]},"maxWidth":60,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"%","name":"%","type":"numeric","cell":["100","100","0","0","0","0","0","0"],"header":"%","maxWidth":50,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"Pour","name":"Pour","type":"numeric","cell":["405","385","0","0","0","0","340","325"],"header":"Pour","maxWidth":60,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"Contre","name":"Contre","type":"numeric","cell":["325","340","0","0","0","0","385","405"],"header":"Contre","maxWidth":65,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"Diff","name":"Diff","type":"numeric","cell":["80","45","0","0","0","0","-45","-80"],"header":"Diff","maxWidth":60,"align":"center","headerStyle":{"background":"#f7f7f8"}}],"highlight":true,"bordered":true,"dataKey":"7c8520b871d567cf832d538c63c50a5e"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
 </div>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<p>Nouveau site de la ligue de génies en herbe.</p>
-<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
-
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
