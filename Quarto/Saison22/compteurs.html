@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>GEH Statcan</title>
+<title>GEH Statcan – compteurs</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -60,6 +60,14 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+<script src="site_libs/core-js-2.5.3/shim.min.js"></script>
+<script src="site_libs/react-17.0.0/react.min.js"></script>
+<script src="site_libs/react-17.0.0/react-dom.min.js"></script>
+<script src="site_libs/reactwidget-1.0.0/react-tools.js"></script>
+<script src="site_libs/htmlwidgets-1.6.2/htmlwidgets.js"></script>
+<link href="site_libs/reactable-0.4.4/reactable.css" rel="stylesheet">
+<script src="site_libs/reactable-binding-0.4.4/reactable.js"></script>
+
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -82,14 +90,6 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
- <span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./test.html" rel="" target="">
- <span class="menu-text">Texte du Test</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./calendrier.html" rel="" target="">
  <span class="menu-text">Calendrier</span></a>
   </li>  
@@ -98,8 +98,16 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Classement</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./compteurs.html" rel="" target="">
+    <a class="nav-link active" href="./compteurs.html" rel="" target="" aria-current="page">
  <span class="menu-text">Compteurs</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./calendrier.html" rel="" target="">
+ <span class="menu-text">Documentation</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./calendrier.html" rel="" target="">
+ <span class="menu-text">Saisons Précédentes</span></a>
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
@@ -116,27 +124,34 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">GEH Statcan</h1>
+
+
+<section id="compteurs-var-saison" class="level2">
+<h2 class="anchored" data-anchor-id="compteurs-var-saison">Compteurs 2023-2024</h2>
+<!--# Code à rouler en premier. Inclus dans _lectureCSV. -->
+</section>
+<section id="les-équipes" class="level2">
+<h2 class="anchored" data-anchor-id="les-équipes">Les équipes</h2>
+<div class="cell">
+<div class="cell-output-display">
+
+<div class="reactable html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-868fe9f436efafe1201a" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-868fe9f436efafe1201a">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Position":[1,2,2,4],"NomÉquipe":["Les Méthos précieux","Les Disciples de Yaourt","Les Herbizarres","Les Faciles à cuire"],"PJ":[1,1,1,1],"Points":[55,45,45,35],"PointsParPJ":[55,45,45,35]},"columns":[{"id":"Position","name":"Pos","type":"numeric","cell":["1","2","2","4"],"maxWidth":50,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"NomÉquipe","name":"Équipe","type":"character","cell":["Les Méthos précieux","Les Disciples de Yaourt","Les Herbizarres","Les Faciles à cuire"],"maxWidth":200,"align":"left","headerStyle":{"background":"#f7f7f8"}},{"id":"PJ","name":"PJ","type":"numeric","cell":["1","1","1","1"],"maxWidth":50,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"Points","name":"Pts","type":"numeric","cell":["55","45","45","35"],"maxWidth":50,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"PointsParPJ","name":"Pts/PJ","type":"numeric","cell":[{"name":"strong","attribs":{},"children":["55.00"]},{"name":"strong","attribs":{},"children":["45.00"]},{"name":"strong","attribs":{},"children":["45.00"]},{"name":"strong","attribs":{},"children":["35.00"]}],"maxWidth":70,"align":"center","headerStyle":{"background":"#f7f7f8"},"header":{"name":"strong","attribs":{},"children":[{"name":"em","attribs":{},"children":["Pts"]}]}}],"pagination":false,"dataKey":"c5cffcfd2449bab451ad5598606d21dd"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+</section>
+<section id="les-joueurs" class="level2">
+<h2 class="anchored" data-anchor-id="les-joueurs">Les joueurs</h2>
+<div class="cell">
+<div class="cell-output-display">
+
+<div class="reactable html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-c8cd3469bbd4b5f79a8b" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-c8cd3469bbd4b5f79a8b">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Position":[1,2,3,4,5,6,6,8,8,10,11,12,13,13,15,16],"NomComplet":["Kevin Borrelli","Pierre Galarneau","Éric Caron-Malenfant","Sébastien Landry","Bruno Lapierre","Martin Sirois","Philippe Bérubé","Geneviève Ouellet","Julie Bernier","Bertrand Ouellet-Léveillé","Sylvain Perron","Frédéric Bédard","Bruno Morin","Tony Labillois","Samuel Vézina","Claude Dionne"],"NomÉquipe":["Les Disciples de Yaourt","Les Faciles à cuire","Les Faciles à cuire","Les Herbizarres","Les Méthos précieux","Les Méthos précieux","Les Faciles à cuire","Les Herbizarres","Les Méthos précieux","Les Disciples de Yaourt","Les Méthos précieux","Les Herbizarres","Les Disciples de Yaourt","Les Faciles à cuire","Les Herbizarres","Les Disciples de Yaourt"],"PJ":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"Points":[160,120,115,110,100,90,90,80,80,70,60,50,45,45,40,20],"PointsParPJ":[160,120,115,110,100,90,90,80,80,70,60,50,45,45,40,20]},"columns":[{"id":"Position","name":"Pos","type":"numeric","cell":["1","2","3","4","5","6","6","8","8","10","11","12","13","13","15","16"],"align":"center","headerStyle":{"background":"#f7f7f8"},"maxWidth":50},{"id":"NomComplet","name":"Joueur","type":"character","cell":["Kevin Borrelli","Pierre Galarneau","Éric Caron-Malenfant","Sébastien Landry","Bruno Lapierre","Martin Sirois","Philippe Bérubé","Geneviève Ouellet","Julie Bernier","Bertrand Ouellet-Léveillé","Sylvain Perron","Frédéric Bédard","Bruno Morin","Tony Labillois","Samuel Vézina","Claude Dionne"],"align":"left","headerStyle":{"background":"#f7f7f8"},"maxWidth":270},{"id":"NomÉquipe","name":"Équipe","type":"character","cell":["Les Disciples de Yaourt","Les Faciles à cuire","Les Faciles à cuire","Les Herbizarres","Les Méthos précieux","Les Méthos précieux","Les Faciles à cuire","Les Herbizarres","Les Méthos précieux","Les Disciples de Yaourt","Les Méthos précieux","Les Herbizarres","Les Disciples de Yaourt","Les Faciles à cuire","Les Herbizarres","Les Disciples de Yaourt"],"align":"left","headerStyle":{"background":"#f7f7f8"},"maxWidth":200},{"id":"PJ","name":"PJ","type":"numeric","cell":["1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1"],"align":"center","headerStyle":{"background":"#f7f7f8"},"maxWidth":50},{"id":"Points","name":"Pts","type":"numeric","cell":["160","120","115","110","100","90","90","80","80","70","60","50","45","45","40","20"],"align":"center","headerStyle":{"background":"#f7f7f8"},"maxWidth":50},{"id":"PointsParPJ","name":"Pts/PJ","type":"numeric","cell":[{"name":"strong","attribs":{},"children":["160.00"]},{"name":"strong","attribs":{},"children":["120.00"]},{"name":"strong","attribs":{},"children":["115.00"]},{"name":"strong","attribs":{},"children":["110.00"]},{"name":"strong","attribs":{},"children":["100.00"]},{"name":"strong","attribs":{},"children":["90.00"]},{"name":"strong","attribs":{},"children":["90.00"]},{"name":"strong","attribs":{},"children":["80.00"]},{"name":"strong","attribs":{},"children":["80.00"]},{"name":"strong","attribs":{},"children":["70.00"]},{"name":"strong","attribs":{},"children":["60.00"]},{"name":"strong","attribs":{},"children":["50.00"]},{"name":"strong","attribs":{},"children":["45.00"]},{"name":"strong","attribs":{},"children":["45.00"]},{"name":"strong","attribs":{},"children":["40.00"]},{"name":"strong","attribs":{},"children":["20.00"]}],"align":"center","headerStyle":{"background":"#f7f7f8"},"maxWidth":70}],"pagination":false,"highlight":true,"bordered":true,"dataKey":"deaaaf3ea1f21f32b1c777b5b217f139"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
 </div>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<p>Nouveau site de la ligue de génies en herbe.</p>
-<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
-
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
