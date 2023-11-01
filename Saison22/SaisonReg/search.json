@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "procesverbaux.html",
+    "href": "procesverbaux.html",
+    "title": "Procès-verbaux",
+    "section": "",
+    "text": "Membre du Comité décisionnel\n\nJulien Bérard-Chagnon, Julie Bernier, Sébastien Landry, Stéphane Martineau, Stéphane Mongeau, Geneviève Ouellet, Pierre Parent, Sylvain Perron, Martin Sirois\n\nRéunion #1: 29 septembre 2005, JT 11 D à midi - Procès-verbal\nRéunion #2: 20 juin 2006, JT 11 E à midi - Procès-verbal\nRéunion #3: 27 juin 2007, JT 11 D à midi - Procès-verbal\nRéunion #4: 9 juillet 2008, RHC 16-3 à midi - Procès-verbal\nRéunion #5: 8 juillet 2009, RHC 11-4 à midi - Procès-verbal\nRéunion #6: 30 juin 2010, RHC 11-4 à midi - Procès-verbal\nRéunion #7: 29 juin 2011, RHC 11-4 à midi - Procès-verbal\nRéunion #8: 21 juin 2012, RHC 16-3 à midi - Procès-verbal\nRéunion #9: 15 mai 2013, RHC 16-3 à midi - Procès-verbal\nRéunion #10: 28 mai 2014, RHC 16-3 à midi - Procès-verbal\nRéunion #11: 28 mai 2015, RHC 16-3 à midi - Procès-verbal\nRéunion #12: 18 mai 2016, RHC 16-3 à midi - Procès-verbal\nRéunion #13: 30 août 2017, RHC 16-3 à midi - Procès-verbal\nRéunion #14: 30 mai 2018, RHC 16-3 à midi - Procès-verbal\nRéunion #15: 12 juin 2019, RHC 16-3 à midi - Procès-verbal\nRéunion #16: 13 janvier 2021, MS Teams à midi - Procès-verbal\nRéunion #17: 25 août 2021, MS Teams à midi - Procès-verbal"
+  },
+  {
+    "objectID": "p5saisonPrécédentes.html",
+    "href": "p5saisonPrécédentes.html",
+    "title": "Archives des saisons précédentes",
+    "section": "",
+    "text": "Dernière mise à jour : 5 septembre 2023\n\n\n\n\n\n\n\n\n\n\n\nÀ venir…\nPrésentement seulement disponible sur l’intranet (les liens ne foncitonnent pas)"
+  },
+  {
+    "objectID": "p5saisonPrécédentes.html#saison-19-2020-2021---covid",
+    "href": "p5saisonPrécédentes.html#saison-19-2020-2021---covid",
+    "title": "Archives des saisons précédentes",
+    "section": "",
+    "text": "À venir…\nPrésentement seulement disponible sur l’intranet (les liens ne foncitonnent pas)"
+  },
+  {
+    "objectID": "p3compteurs.html",
+    "href": "p3compteurs.html",
+    "title": "Compteurs 2023-2024",
+    "section": "",
+    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "p3compteurs.html#les-joueurs",
+    "href": "p3compteurs.html#les-joueurs",
+    "title": "Compteurs 2023-2024",
+    "section": "",
+    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "instructions.html",
+    "href": "instructions.html",
+    "title": "instructions",
+    "section": "",
+    "text": "Mise à jours des pages\n\npull de github\nIl faut les fichiers CSV suivant dans C:/GIT/gehstatcan.github.io\n\ntblParties.csv\ntblÉquipes.csv\ntblJoueurs.csv\ntblRépondantsParJoueurs\n\nAjouter les points de la partie dans tblRépondantsParJoueurs. Habituellement 10 lignes. Le fichier Saisie des points.xlsx (Excel 365 seulement) peut aider pour cette tâche .\npull de github\nsaisie des chiffres dans tblRépondantsParJoueurs.csv\nfaire un “Render” du site.\nEnvoyer les fichiers du répertoire output-dir: dans le fichier _quarto.yml vers https://github.com/gehstatcan/gehstatcan.github.io (“sitewebracine/Quarto/saison22/SaisonReg”)\n\nMoi, j’utilise GitKraken, donc, je copie de output-dir vers mon répertoire lié à GitKraken\n\n\nNote: Je veux revoir la structure des répertoire. Par exemple, ce fichier devrait être dans “racine/documentation” et non “/Saison22”!\nNote: Il n’y a plus de base de données access. Les tables ont été converties en fichier CSV.\n4 CSV requis:\n\ntblÉquipes.csv\ntblJoueurs.csv\ntblParties.csv\ntblRépondantsParJoueurs.csv"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Calendrier 2023-2024",
+    "section": "",
+    "text": "Calendrier 2023-2024\n\n\n\n\n\n\n\n\nVous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "p2classement.html",
+    "href": "p2classement.html",
+    "title": "GEH Statcan",
+    "section": "",
+    "text": "G : Victoire par plus de 40 pts. (4 pts)\nGP: Victoire par 40 pts ou moins. (3 pts)\nPN: Partie Nulle. (2 pts)\nPP: Défaite par 40 pts ou moins. (1 pts)\nP : Défaite par plus de 40 pts. (0 pt)\n% : C’est le pourcentage des points acquis sur les points possibles\n\nVous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "p2classement.html#classement-var-saison",
+    "href": "p2classement.html#classement-var-saison",
+    "title": "GEH Statcan",
+    "section": "",
+    "text": "G : Victoire par plus de 40 pts. (4 pts)\nGP: Victoire par 40 pts ou moins. (3 pts)\nPN: Partie Nulle. (2 pts)\nPP: Défaite par 40 pts ou moins. (1 pts)\nP : Défaite par plus de 40 pts. (0 pt)\n% : C’est le pourcentage des points acquis sur les points possibles\n\nVous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "p4documentation.html",
+    "href": "p4documentation.html",
+    "title": "Documentation 2023-2024 ",
+    "section": "",
+    "text": "Questionnaire 1 (parties du 18 octobre au 13 décembre)\nQuestionnaire 2 (parties du 10 janvier au 13 mars)\nQuestionnaire 3 (parties arpès le 13 mars)\n\n\n\nMis à jour le 31 août 2023\n\n\n\nMis à jour - août 2016\n\n\n\nMis à jour le 31 août 2023"
+  },
+  {
+    "objectID": "p4documentation.html#gabarits",
+    "href": "p4documentation.html#gabarits",
+    "title": "Documentation 2023-2024 ",
+    "section": "",
+    "text": "Questionnaire 1 (parties du 18 octobre au 13 décembre)\nQuestionnaire 2 (parties du 10 janvier au 13 mars)\nQuestionnaire 3 (parties arpès le 13 mars)\n\n\n\nMis à jour le 31 août 2023\n\n\n\nMis à jour - août 2016\n\n\n\nMis à jour le 31 août 2023"
+  },
+  {
+    "objectID": "p9apropos.html",
+    "href": "p9apropos.html",
+    "title": "À propos",
+    "section": "",
+    "text": "Ligue de génies en herbe de Statistique Canada (GEH Statcan)\nSite créé avec Quarto en intégrant des tableaux R avec la package reactable.\nDes questions, des erreurs sur le site : martin.sirois70@gmail.com.\nCréation du site : octobre 2023"
+  }
+]
