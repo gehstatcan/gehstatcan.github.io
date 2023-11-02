@@ -1,4 +1,6 @@
 NoÉquipe,NoJoueur,NomJoueur,PrénomJoueur,Alias,Statut,Icône,PosActuelle
+8,7,Absent,Absent,Absent,Remplaçant,1,0
+8,99,Les Génies de la traduction,NA,Les Génies de la traduction,Équipe,1,0
 7,6,Turpin,Danielle,Danielle,Remplaçant,1,0
 2,7,Sarrasin,Marie-Hélène,Marie-Hélène,Régulier,1,0
 6,7,Allard Gervais,Daphné,Daphné,Remplaçant,1,0
@@ -13,6 +15,7 @@ NoÉquipe,NoJoueur,NomJoueur,PrénomJoueur,Alias,Statut,Icône,PosActuelle
 6,9,Binet,David,David,Remplaçant,1,0
 1,6,Lemyre (Disciples),Étienne,Étienne,Remplaçant,1,0
 4,5,Morency,Jean-Dominique,Jean-Dominique,Remplaçant,1,0
+8,6,Sarrazin,Julie,Julie,Régulier,1,0
 1,1,Borrelli,Kevin,Kevin,Capitaine,1,2
 1,2,Dionne,Claude,Claude,Régulier,1,3
 1,3,Ouellet-Léveillé,Bertrand,Bertrand,Régulier,1,1
@@ -53,9 +56,9 @@ NoÉquipe,NoJoueur,NomJoueur,PrénomJoueur,Alias,Statut,Icône,PosActuelle
 5,7,Absent,Absent,Absent,Remplaçant,1,0
 5,99,Les Méthos précieux,NA,Les Méthos précieux,Équipe,1,0
 6,1,Mongeau,Stéphane,Stéphane,Capitaine,1,1
-6,2,Bosa,Keven,Keven,Régulier,1,4
+6,5,Bosa,Keven,Keven,Remplaçant,1,4
 6,3,Bérard-Chagnon,Julien,Julien,Régulier,1,2
-6,5,Julien,Pierre-Olivier,Pierre-Olivier,RégulierRemplaçant,1,3
+6,2,Julien,Pierre-Olivier,Pierre-Olivier,Régulier,1,3
 6,6,Rassart,Étienne,Étienne,Remplaçant,1,0
 6,10,Absent,Absent,Absent,Remplaçant,1,0
 6,99,Les 12e meilleurs,NA,Les 12e meilleurs,Équipe,1,0
@@ -71,6 +74,3 @@ NoÉquipe,NoJoueur,NomJoueur,PrénomJoueur,Alias,Statut,Icône,PosActuelle
 8,3,Gamache,Isabelle,Isabelle,Régulier,1,2
 8,4,Lachance,Catherine,Catherine,Régulier,1,3
 8,5,Vilandré,Francis,Francis,Régulier,1,0
-8,6,Absent,Absent,Absent,Remplaçant,1,0
-8,7,Sarrazin,Julie,Julie,Régulier,1,0
-8,99,Les Génies de la traduction,NA,Les Génies de la traduction,Équipe,1,0
