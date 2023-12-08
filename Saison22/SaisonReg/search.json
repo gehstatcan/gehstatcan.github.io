@@ -1,49 +1,21 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GEH Statcan",
+    "objectID": "procesverbaux.html",
+    "href": "procesverbaux.html",
+    "title": "Procès-verbaux",
     "section": "",
-    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
-  },
-  {
-    "objectID": "instructions.html",
-    "href": "instructions.html",
-    "title": "instructions",
-    "section": "",
-    "text": "Mise à jours des pages\n\npull de github (https://github.com/gehstatcan/gehstatcan.github.io)\nIl faut les fichiers CSV suivant dans C:/GIT/gehstatcan.github.io\n\ntblParties.csv\ntblÉquipes.csv\ntblJoueurs.csv\ntblRépondantsParJoueurs\n\nAjouter les points de la partie dans tblRépondantsParJoueurs. Habituellement 10 lignes. Le fichier Saisie des points.xlsx (Excel 365 seulement) peut aider pour cette tâche .\npull de https://github.com/gehstatcan/CreationPageWeb\nOuvrir le projet R GEHStatcanQMD.Rproj\nfaire un “Render” du site. menu Build|Render Web s\nCopier le contenu de \\sitewebracine\\Saison22\\SaisonReg vers C:\\GIT\\gehstatcan.github.io\\Saison22\\SaisonReg\n\nEnvoyer les fichiers du répertoire output-dir: dans le fichier _quarto.yml vers https://github.com/gehstatcan/gehstatcan.github.io (“sitewebracine/Quarto/saison22/SaisonReg”)\n\nMoi, j’utilise GitKraken, donc, je copie de output-dir vers mon répertoire lié à GitKraken\n\n\nNote: Je veux revoir la structure des répertoire. Par exemple, ce fichier devrait être dans “racine/documentation” et non “/Saison22”!\nNote: Il n’y a plus de base de données access. Les tables ont été converties en fichier CSV.\n4 CSV requis:\n\ntblÉquipes.csv\ntblJoueurs.csv\ntblParties.csv\ntblRépondantsParJoueurs.csv"
-  },
-  {
-    "objectID": "p2classement.html",
-    "href": "p2classement.html",
-    "title": "GEH Statcan",
-    "section": "",
-    "text": "G : Victoire par plus de 40 pts. (4 pts)\nGP: Victoire par 40 pts ou moins. (3 pts)\nPN: Partie Nulle. (2 pts)\nPP: Défaite par 40 pts ou moins. (1 pts)\nP : Défaite par plus de 40 pts. (0 pt)\n% : C’est le pourcentage des points acquis sur les points possibles\n\nVous voyez une erreur : martin.sirois70@gmail.com"
-  },
-  {
-    "objectID": "p3compteurs.html",
-    "href": "p3compteurs.html",
-    "title": "GEH Statcan",
-    "section": "",
-    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
-  },
-  {
-    "objectID": "p4documentation.html#gabarits",
-    "href": "p4documentation.html#gabarits",
-    "title": "GEH Statcan",
-    "section": "Gabarits",
-    "text": "Gabarits\n\n\nQuestionnaire 1 (parties du 18 octobre au 13 décembre)\nQuestionnaire 2 (parties du 10 janvier au 13 mars)\nQuestionnaire 3 (parties arpès le 13 mars)\n\n\nPlan du questionnaire\nMis à jour le 31 août 2023\n\n\nGuide du petit faiseur de questions\nMis à jour - août 2016\n\n\nRèglements\nMis à jour le 31 août 2023\n\n\nInstructions - Joueurs\n\n\nInstructions - Animateur\n\n\nÀ venir\n\nInstructions pour la saisie des points\n\n\nInstructions pour la mise à jour du site"
-  },
-  {
-    "objectID": "p4documentation.html#procès-verbaux",
-    "href": "p4documentation.html#procès-verbaux",
-    "title": "GEH Statcan",
-    "section": "Procès verbaux",
-    "text": "Procès verbaux"
+    "text": "Membre du Comité décisionnel\n\nJulien Bérard-Chagnon, Julie Bernier, Sébastien Landry, Stéphane Martineau, Stéphane Mongeau, Geneviève Ouellet, Pierre Parent, Sylvain Perron, Martin Sirois\n\nRéunion #1: 29 septembre 2005, JT 11 D à midi - Procès-verbal\nRéunion #2: 20 juin 2006, JT 11 E à midi - Procès-verbal\nRéunion #3: 27 juin 2007, JT 11 D à midi - Procès-verbal\nRéunion #4: 9 juillet 2008, RHC 16-3 à midi - Procès-verbal\nRéunion #5: 8 juillet 2009, RHC 11-4 à midi - Procès-verbal\nRéunion #6: 30 juin 2010, RHC 11-4 à midi - Procès-verbal\nRéunion #7: 29 juin 2011, RHC 11-4 à midi - Procès-verbal\nRéunion #8: 21 juin 2012, RHC 16-3 à midi - Procès-verbal\nRéunion #9: 15 mai 2013, RHC 16-3 à midi - Procès-verbal\nRéunion #10: 28 mai 2014, RHC 16-3 à midi - Procès-verbal\nRéunion #11: 28 mai 2015, RHC 16-3 à midi - Procès-verbal\nRéunion #12: 18 mai 2016, RHC 16-3 à midi - Procès-verbal\nRéunion #13: 30 août 2017, RHC 16-3 à midi - Procès-verbal\nRéunion #14: 30 mai 2018, RHC 16-3 à midi - Procès-verbal\nRéunion #15: 12 juin 2019, RHC 16-3 à midi - Procès-verbal\nRéunion #16: 13 janvier 2021, MS Teams à midi - Procès-verbal\nRéunion #17: 25 août 2021, MS Teams à midi - Procès-verbal"
   },
   {
     "objectID": "p5saisonPrécédentes.html",
     "href": "p5saisonPrécédentes.html",
+    "title": "GEH Statcan",
+    "section": "",
+    "text": "Dernière mise à jour : 5 septembre 2023"
+  },
+  {
+    "objectID": "p5saisonPrécédentes.html#archives-des-saisons-précédentes",
+    "href": "p5saisonPrécédentes.html#archives-des-saisons-précédentes",
     "title": "GEH Statcan",
     "section": "",
     "text": "Dernière mise à jour : 5 septembre 2023"
@@ -203,17 +175,73 @@
     "text": "Saison #1 (2003)"
   },
   {
+    "objectID": "p3compteurs.html",
+    "href": "p3compteurs.html",
+    "title": "Compteurs 2023-2024",
+    "section": "",
+    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "p3compteurs.html#les-joueurs",
+    "href": "p3compteurs.html#les-joueurs",
+    "title": "Compteurs 2023-2024",
+    "section": "",
+    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "instructions.html",
+    "href": "instructions.html",
+    "title": "instructions",
+    "section": "",
+    "text": "Mise à jours des pages\n\npull de github (https://github.com/gehstatcan/gehstatcan.github.io)\nIl faut les fichiers CSV suivant dans C:/GIT/gehstatcan.github.io\n\ntblParties.csv\ntblÉquipes.csv\ntblJoueurs.csv\ntblRépondantsParJoueurs\n\nAjouter les points de la partie dans tblRépondantsParJoueurs. Habituellement 10 lignes. Le fichier Saisie des points.xlsx (Excel 365 seulement) peut aider pour cette tâche .\npull de https://github.com/gehstatcan/CreationPageWeb\nOuvrir le projet R GEHStatcanQMD.Rproj\nfaire un “Render” du site. menu Build|Render Web s\nCopier le contenu de \\sitewebracine\\Saison22\\SaisonReg vers C:\\GIT\\gehstatcan.github.io\\Saison22\\SaisonReg\n\nEnvoyer les fichiers du répertoire output-dir: dans le fichier _quarto.yml vers https://github.com/gehstatcan/gehstatcan.github.io (“sitewebracine/Quarto/saison22/SaisonReg”)\n\nMoi, j’utilise GitKraken, donc, je copie de output-dir vers mon répertoire lié à GitKraken\n\n\nNote: Je veux revoir la structure des répertoire. Par exemple, ce fichier devrait être dans “racine/documentation” et non “/Saison22”!\nNote: Il n’y a plus de base de données access. Les tables ont été converties en fichier CSV.\n4 CSV requis:\n\ntblÉquipes.csv\ntblJoueurs.csv\ntblParties.csv\ntblRépondantsParJoueurs.csv"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GEH Statcan",
+    "section": "",
+    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "index.html#calendrier-var-saison",
+    "href": "index.html#calendrier-var-saison",
+    "title": "GEH Statcan",
+    "section": "",
+    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "p2classement.html",
+    "href": "p2classement.html",
+    "title": "GEH Statcan",
+    "section": "",
+    "text": "G : Victoire par plus de 40 pts. (4 pts)\nGP: Victoire par 40 pts ou moins. (3 pts)\nPN: Partie Nulle. (2 pts)\nPP: Défaite par 40 pts ou moins. (1 pts)\nP : Défaite par plus de 40 pts. (0 pt)\n% : C’est le pourcentage des points acquis sur les points possibles\n\nVous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "p2classement.html#classement-var-saison",
+    "href": "p2classement.html#classement-var-saison",
+    "title": "GEH Statcan",
+    "section": "",
+    "text": "G : Victoire par plus de 40 pts. (4 pts)\nGP: Victoire par 40 pts ou moins. (3 pts)\nPN: Partie Nulle. (2 pts)\nPP: Défaite par 40 pts ou moins. (1 pts)\nP : Défaite par plus de 40 pts. (0 pt)\n% : C’est le pourcentage des points acquis sur les points possibles\n\nVous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "p4documentation.html",
+    "href": "p4documentation.html",
+    "title": "Documentation 2023-2024 ",
+    "section": "",
+    "text": "Questionnaire 1 (parties du 18 octobre au 13 décembre)\nQuestionnaire 2 (parties du 10 janvier au 13 mars)\nQuestionnaire 3 (parties arpès le 13 mars)\n\n\n\nMis à jour le 31 août 2023\n\n\n\nMis à jour - août 2016\n\n\n\nMis à jour le 31 août 2023"
+  },
+  {
+    "objectID": "p4documentation.html#gabarits",
+    "href": "p4documentation.html#gabarits",
+    "title": "Documentation 2023-2024 ",
+    "section": "",
+    "text": "Questionnaire 1 (parties du 18 octobre au 13 décembre)\nQuestionnaire 2 (parties du 10 janvier au 13 mars)\nQuestionnaire 3 (parties arpès le 13 mars)\n\n\n\nMis à jour le 31 août 2023\n\n\n\nMis à jour - août 2016\n\n\n\nMis à jour le 31 août 2023"
+  },
+  {
     "objectID": "p9apropos.html",
     "href": "p9apropos.html",
     "title": "À propos",
     "section": "",
-    "text": "Ligue de génies en herbe de Statistique Canada (GEH Statcan)\nSite créé avec Quarto en intégrant des tableaux R avec la package reactable.\nDes questions, des erreurs sur le site : martin.sirois70@gmail.com.\nCréation du site : octobre 2023\n\n\n#Définition des librairies\n  if (!require(\"dplyr\", character.only = TRUE)) {\n    install.packages(\"dplyr\")\n    }\n  library(dplyr)\n  \n  if (!require(\"reactable\", character.only = TRUE)) {\n    install.packages(\"reactable\")\n    }\n  library(reactable)\n  \n  if (!require(\"readr\", character.only = TRUE)) {\n    install.packages(\"readr\")\n    }\n  library(readr)\n if (!require(\"dplyr\", character.only = TRUE)) {\n    install.packages(\"dplyr\")\n    }\n  library(dplyr)\n  if (!require(\"reactable\", character.only = TRUE)) {\n    # If tidyr is not installed, install it\n    install.packages(\"tidyr\")\n  }\n  library(\"tidyr\")\n  if (!require(\"quarto\", character.only = TRUE)) {\n    # If tidyr is not installed, install it\n    install.packages(\"quarto\")\n  }\n  library(\"quarto\")\n\n\n  # Charger les variables depuis le fichier _variables.yml. C'est là qu'il faut configurer la saison\n  variables <- yaml::read_yaml(\"_variables.yml\")\n\n  # Définition des variables. Les variable sont dans _variables.yml\n  écartPoints <- variables$écartPoints\n  répertoire_données <-  variables$répertoire_données\n  répertoire_code <-  variables$répertoire_code\n  \n  lienURLSiteGEH <- variables$URLsiteGEH #Pointe à la racine\n  lien_saison <-  paste(lienURLSiteGEH, variables$repertoireSaison,sep = \"/\") #ex: https://gehstatcan.github.io/Saison22\n  lien_questionnaire <- paste(lien_saison,\"SaisonReg/Questionnaires/\",sep = \"/\") # Pointe vers les questionnaires\n\n  # Utiliser les variables\n  #cat(\"La valeur de variable1 est\", écartPoints, \"\\n\")\n\n  setwd(répertoire_code)\n\n# Set the time zone to your desired value\n  Sys.setenv(TZ = \"Canada/Eastern\")\n\n# Construction des noms de fichiers à charger (les tables)\n  file_path_équipes <- paste0(répertoire_données, \"/tblÉquipes.csv\")\n  file_path_parties <- paste0(répertoire_données, \"/tblParties.csv\")\n  file_path_joueurs <- paste0(répertoire_données, \"/tblJoueurs.csv\")\n  file_path_RépondantsParJoueurs <- paste0(répertoire_données, \"/tblRépondantsParJoueurs.csv\")\n\n\n### Main fin\n\n\n# Lecture des CSV (tables)\n  équipes <- read.csv(file_path_équipes, header = TRUE, sep = \",\") %>% arrange(NoÉquipe)\n  parties <- read.csv(file_path_parties, header = TRUE, sep = \",\") %>% arrange(NoPartie)\n  joueurs <- read.csv(file_path_joueurs, header = TRUE, sep = \",\") %>% arrange(NoÉquipe, NoJoueur)\n  RépondantsParJoueurs <- read.csv(file_path_RépondantsParJoueurs, header = TRUE, sep = \",\") %>% arrange(NoPartie, NoÉquipe)\n\n# Calendrier fait ici car requis pour le classement.\n  calendrier <- merge(parties, équipes, by.x = \"NoÉquipeA\", by.y = \"NoÉquipe\")\n  calendrier <- merge(calendrier, équipes, by.x = \"NoÉquipeB\", by.y = \"NoÉquipe\", suffixes = c(\"A\", \"B\"))\n\n# Ajout des points des équipes\n  ptsParPartieÉquipe <- aggregate(Points ~ NoPartie + NoÉquipe, data = RépondantsParJoueurs[1:369, ], FUN = sum) %>% arrange(NoPartie, NoÉquipe)\n  calendrier <- merge(calendrier, ptsParPartieÉquipe, by.x = c(\"NoPartie\", \"NoÉquipeA\"), by.y = c(\"NoPartie\", \"NoÉquipe\"), all.x = TRUE) %>% rename(\"PointsA\" = \"Points\")\n  calendrier <- merge(calendrier, ptsParPartieÉquipe, by.x = c(\"NoPartie\", \"NoÉquipeB\"), by.y = c(\"NoPartie\", \"NoÉquipe\"), all.x = TRUE) %>% \n  rename(\"PointsB\" = \"Points\") %>%\n  arrange(NoPartie)\n  \n  calendrier <- calendrier[, c(\"NoPartie\", \"Date\", \"NomÉquipeA\", \"PointsA\", \"NoÉquipeA\", \"NomÉquipeB\", \"PointsB\", \"NoÉquipeB\",\"NoÉquipeQuestionnaire\", \"NoQuestionnaire\", \"NomAnimateur\", \"LienReunion\", \"LienConsole\", \"LienBouton\")] %>%\n  arrange(NoPartie)\n\n\n# Définir les variables de répertoire\n\n# Chemin d'origine\nsource_directory <- file.path(répertoire_code, \"sitewebracine\", \"Saison22\", \"SaisonReg\")\n\n# Chemin de destination avec recul d'un niveau\ndestination_directory <- file.path(répertoire_données, \"..\", \"SaisonReg\")\n# Chemin de destination sans ajout de \"SaisonReg\" supplémentaire\ndestination_directory <- file.path(répertoire_données, \"..\")\n\n\n# Copier tout le contenu du répertoire source vers le répertoire de destination\nfile.copy(from = source_directory, to = destination_directory, recursive = TRUE, overwrite = TRUE)\n\n[1] TRUE\n\n# Afficher un message une fois la copie terminée\ncat(\"Le contenu a été copié avec succès de\", source_directory, \"vers\", destination_directory, \"\\n\")\n\nLe contenu a été copié avec succès de C:/Users/siromar/Documents/Github/CreationPageWeb/Quarto//sitewebracine/Saison22/SaisonReg vers C:/Users/siromar/Documents/Github/gehstatcan.github.io/Saison22/DonnéesCSV/.."
-  },
-  {
-    "objectID": "procesverbaux.html",
-    "href": "procesverbaux.html",
-    "title": "Procès-verbaux",
-    "section": "",
-    "text": "Membre du Comité décisionnel\n\nJulien Bérard-Chagnon, Julie Bernier, Sébastien Landry, Stéphane Martineau, Stéphane Mongeau, Geneviève Ouellet, Pierre Parent, Sylvain Perron, Martin Sirois\n\nRéunion #1: 29 septembre 2005, JT 11 D à midi - Procès-verbal\nRéunion #2: 20 juin 2006, JT 11 E à midi - Procès-verbal\nRéunion #3: 27 juin 2007, JT 11 D à midi - Procès-verbal\nRéunion #4: 9 juillet 2008, RHC 16-3 à midi - Procès-verbal\nRéunion #5: 8 juillet 2009, RHC 11-4 à midi - Procès-verbal\nRéunion #6: 30 juin 2010, RHC 11-4 à midi - Procès-verbal\nRéunion #7: 29 juin 2011, RHC 11-4 à midi - Procès-verbal\nRéunion #8: 21 juin 2012, RHC 16-3 à midi - Procès-verbal\nRéunion #9: 15 mai 2013, RHC 16-3 à midi - Procès-verbal\nRéunion #10: 28 mai 2014, RHC 16-3 à midi - Procès-verbal\nRéunion #11: 28 mai 2015, RHC 16-3 à midi - Procès-verbal\nRéunion #12: 18 mai 2016, RHC 16-3 à midi - Procès-verbal\nRéunion #13: 30 août 2017, RHC 16-3 à midi - Procès-verbal\nRéunion #14: 30 mai 2018, RHC 16-3 à midi - Procès-verbal\nRéunion #15: 12 juin 2019, RHC 16-3 à midi - Procès-verbal\nRéunion #16: 13 janvier 2021, MS Teams à midi - Procès-verbal\nRéunion #17: 25 août 2021, MS Teams à midi - Procès-verbal"
+    "text": "Ligue de génies en herbe de Statistique Canada (GEH Statcan)\nSite créé avec Quarto en intégrant des tableaux R avec la package reactable.\nDes questions, des erreurs sur le site : martin.sirois70@gmail.com.\nCréation du site : octobre 2023\n\n\n#Définition des librairies\n  if (!require(\"dplyr\", character.only = TRUE)) {\n    install.packages(\"dplyr\")\n    }\n  library(dplyr)\n  \n  if (!require(\"reactable\", character.only = TRUE)) {\n    install.packages(\"reactable\")\n    }\n  library(reactable)\n  \n  if (!require(\"readr\", character.only = TRUE)) {\n    install.packages(\"readr\")\n    }\n  library(readr)\n if (!require(\"dplyr\", character.only = TRUE)) {\n    install.packages(\"dplyr\")\n    }\n  library(dplyr)\n  if (!require(\"reactable\", character.only = TRUE)) {\n    # If tidyr is not installed, install it\n    install.packages(\"tidyr\")\n  }\n  library(\"tidyr\")\n  if (!require(\"quarto\", character.only = TRUE)) {\n    # If tidyr is not installed, install it\n    install.packages(\"quarto\")\n  }\n  library(\"quarto\")\n\n\n  # Charger les variables depuis le fichier _variables.yml. C'est là qu'il faut configurer la saison\n  variables &lt;- yaml::read_yaml(\"_variables.yml\")\n\n  # Définition des variables. Les variable sont dans _variables.yml\n  écartPoints &lt;- variables$écartPoints\n  répertoire_données &lt;-  variables$répertoire_données\n  répertoire_code &lt;-  variables$répertoire_code\n  \n  lienURLSiteGEH &lt;- variables$URLsiteGEH #Pointe à la racine\n  lien_saison &lt;-  paste(lienURLSiteGEH, variables$repertoireSaison,sep = \"/\") #ex: https://gehstatcan.github.io/Saison22\n  lien_questionnaire &lt;- paste(lien_saison,\"SaisonReg/Questionnaires/\",sep = \"/\") # Pointe vers les questionnaires\n\n  # Utiliser les variables\n  #cat(\"La valeur de variable1 est\", écartPoints, \"\\n\")\n\n  setwd(répertoire_code)\n\n# Set the time zone to your desired value\n  Sys.setenv(TZ = \"Canada/Eastern\")\n\n# Construction des noms de fichiers à charger (les tables)\n  file_path_équipes &lt;- paste0(répertoire_données, \"/tblÉquipes.csv\")\n  file_path_parties &lt;- paste0(répertoire_données, \"/tblParties.csv\")\n  file_path_joueurs &lt;- paste0(répertoire_données, \"/tblJoueurs.csv\")\n  file_path_RépondantsParJoueurs &lt;- paste0(répertoire_données, \"/tblRépondantsParJoueurs.csv\")\n\n\n### Main fin\n\n\n# Lecture des CSV (tables)\n  équipes &lt;- read.csv(file_path_équipes, header = TRUE, sep = \",\") %&gt;% arrange(NoÉquipe)\n  parties &lt;- read.csv(file_path_parties, header = TRUE, sep = \",\") %&gt;% arrange(NoPartie)\n  joueurs &lt;- read.csv(file_path_joueurs, header = TRUE, sep = \",\") %&gt;% arrange(NoÉquipe, NoJoueur)\n  RépondantsParJoueurs &lt;- read.csv(file_path_RépondantsParJoueurs, header = TRUE, sep = \",\") %&gt;% arrange(NoPartie, NoÉquipe)\n\n# Calendrier fait ici car requis pour le classement.\n  calendrier &lt;- merge(parties, équipes, by.x = \"NoÉquipeA\", by.y = \"NoÉquipe\")\n  calendrier &lt;- merge(calendrier, équipes, by.x = \"NoÉquipeB\", by.y = \"NoÉquipe\", suffixes = c(\"A\", \"B\"))\n\n# Ajout des points des équipes\n  ptsParPartieÉquipe &lt;- aggregate(Points ~ NoPartie + NoÉquipe, data = RépondantsParJoueurs[1:369, ], FUN = sum) %&gt;% arrange(NoPartie, NoÉquipe)\n  calendrier &lt;- merge(calendrier, ptsParPartieÉquipe, by.x = c(\"NoPartie\", \"NoÉquipeA\"), by.y = c(\"NoPartie\", \"NoÉquipe\"), all.x = TRUE) %&gt;% rename(\"PointsA\" = \"Points\")\n  calendrier &lt;- merge(calendrier, ptsParPartieÉquipe, by.x = c(\"NoPartie\", \"NoÉquipeB\"), by.y = c(\"NoPartie\", \"NoÉquipe\"), all.x = TRUE) %&gt;% \n  rename(\"PointsB\" = \"Points\") %&gt;%\n  arrange(NoPartie)\n  \n  calendrier &lt;- calendrier[, c(\"NoPartie\", \"Date\", \"NomÉquipeA\", \"PointsA\", \"NoÉquipeA\", \"NomÉquipeB\", \"PointsB\", \"NoÉquipeB\",\"NoÉquipeQuestionnaire\", \"NoQuestionnaire\", \"NomAnimateur\", \"LienReunion\", \"LienConsole\", \"LienBouton\")] %&gt;%\n  arrange(NoPartie)\n\n\n# Définir les variables de répertoire\n\n# Chemin d'origine\nsource_directory &lt;- file.path(répertoire_code, \"sitewebracine\", \"Saison22\", \"SaisonReg\")\n\n# Chemin de destination avec recul d'un niveau\ndestination_directory &lt;- file.path(répertoire_données, \"..\", \"SaisonReg\")\n# Chemin de destination sans ajout de \"SaisonReg\" supplémentaire\ndestination_directory &lt;- file.path(répertoire_données, \"..\")\n\n\n# Copier tout le contenu du répertoire source vers le répertoire de destination\nfile.copy(from = source_directory, to = destination_directory, recursive = TRUE, overwrite = TRUE)\n\n[1] TRUE\n\n# Afficher un message une fois la copie terminée\ncat(\"Le contenu a été copié avec succès de\", source_directory, \"vers\", destination_directory, \"\\n\")\n\nLe contenu a été copié avec succès de F:/Users/MM/Documents/Git/CreationPageWeb/Quarto//sitewebracine/Saison22/SaisonReg vers C:/GIT/gehstatcan.github.io/Saison22/DonnéesCSV/.."
   }
 ]
