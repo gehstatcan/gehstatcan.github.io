@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "procesverbaux.html",
-    "href": "procesverbaux.html",
-    "title": "Procès-verbaux",
+    "objectID": "p9apropos.html",
+    "href": "p9apropos.html",
+    "title": "À propos",
     "section": "",
-    "text": "Membre du Comité décisionnel\n\nJulien Bérard-Chagnon, Julie Bernier, Sébastien Landry, Stéphane Martineau, Stéphane Mongeau, Geneviève Ouellet, Pierre Parent, Sylvain Perron, Martin Sirois\n\nRéunion #1: 29 septembre 2005, JT 11 D à midi - Procès-verbal\nRéunion #2: 20 juin 2006, JT 11 E à midi - Procès-verbal\nRéunion #3: 27 juin 2007, JT 11 D à midi - Procès-verbal\nRéunion #4: 9 juillet 2008, RHC 16-3 à midi - Procès-verbal\nRéunion #5: 8 juillet 2009, RHC 11-4 à midi - Procès-verbal\nRéunion #6: 30 juin 2010, RHC 11-4 à midi - Procès-verbal\nRéunion #7: 29 juin 2011, RHC 11-4 à midi - Procès-verbal\nRéunion #8: 21 juin 2012, RHC 16-3 à midi - Procès-verbal\nRéunion #9: 15 mai 2013, RHC 16-3 à midi - Procès-verbal\nRéunion #10: 28 mai 2014, RHC 16-3 à midi - Procès-verbal\nRéunion #11: 28 mai 2015, RHC 16-3 à midi - Procès-verbal\nRéunion #12: 18 mai 2016, RHC 16-3 à midi - Procès-verbal\nRéunion #13: 30 août 2017, RHC 16-3 à midi - Procès-verbal\nRéunion #14: 30 mai 2018, RHC 16-3 à midi - Procès-verbal\nRéunion #15: 12 juin 2019, RHC 16-3 à midi - Procès-verbal\nRéunion #16: 13 janvier 2021, MS Teams à midi - Procès-verbal\nRéunion #17: 25 août 2021, MS Teams à midi - Procès-verbal"
+    "text": "Ligue de génies en herbe de Statistique Canada (GEH Statcan)\nSite créé avec Quarto en intégrant des tableaux R avec la package reactable.\nDes questions, des erreurs sur le site : martin.sirois70@gmail.com\nCréation du site : octobre 2023\n\n\n\nWarning in file.copy(from = source_directory, to = destination_directory, :\nproblème lors de la copie de\nF:\\Users\\MM\\Documents\\Git\\CreationPageWeb\\Quarto\\\\sitewebracine\\Saison22\\SaisonReg\nvers C:\\GIT\\gehstatcan.github.io\\Saison22\\SaisonReg: No such file or directory\n\n\n[1] FALSE\n\n\nLe contenu a été copié avec succès de F:/Users/MM/Documents/Git/CreationPageWeb/Quarto//sitewebracine/Saison22/SaisonReg vers C:/GIT/gehstatcan.github.io/Saison22"
   },
   {
     "objectID": "p5saisonPrécédentes.html",
@@ -46,7 +46,7 @@
     "href": "p5saisonPrécédentes.html#saison-19-2020-2021---covid",
     "title": "GEH Statcan",
     "section": "Saison #19 (2020-2021) - COVID",
-    "text": "Saison #19 (2020-2021) - COVID\nÀ venir…\nPrésentement seulement disponible sur l’intranet (les liens ne foncitonnent pas)"
+    "text": "Saison #19 (2020-2021) - COVID\nÀ venir…\nPrésentement seulement disponible sur l’intranet (les liens ne fonctionnent pas)"
   },
   {
     "objectID": "p5saisonPrécédentes.html#saison-18-2019-2020",
@@ -189,25 +189,25 @@
     "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
   },
   {
+    "objectID": "p0calendrier.html",
+    "href": "p0calendrier.html",
+    "title": "GEH Statcan",
+    "section": "",
+    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "p0calendrier.html#calendrier-var-saison",
+    "href": "p0calendrier.html#calendrier-var-saison",
+    "title": "GEH Statcan",
+    "section": "",
+    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
     "objectID": "instructions.html",
     "href": "instructions.html",
     "title": "instructions",
     "section": "",
     "text": "Mise à jours des pages\n\npull de github (https://github.com/gehstatcan/gehstatcan.github.io)\nIl faut les fichiers CSV suivant dans C:/GIT/gehstatcan.github.io\n\ntblParties.csv\ntblÉquipes.csv\ntblJoueurs.csv\ntblRépondantsParJoueurs\n\nAjouter les points de la partie dans tblRépondantsParJoueurs. Habituellement 10 lignes. Le fichier Saisie des points.xlsx (Excel 365 seulement) peut aider pour cette tâche .\npull de https://github.com/gehstatcan/CreationPageWeb\nOuvrir le projet R GEHStatcanQMD.Rproj\nfaire un “Render” du site. menu Build|Render Web s\nCopier le contenu de \\sitewebracine\\Saison22\\SaisonReg vers C:\\GIT\\gehstatcan.github.io\\Saison22\\SaisonReg\n\nEnvoyer les fichiers du répertoire output-dir: dans le fichier _quarto.yml vers https://github.com/gehstatcan/gehstatcan.github.io (“sitewebracine/Quarto/saison22/SaisonReg”)\n\nMoi, j’utilise GitKraken, donc, je copie de output-dir vers mon répertoire lié à GitKraken\n\n\nNote: Je veux revoir la structure des répertoire. Par exemple, ce fichier devrait être dans “racine/documentation” et non “/Saison22”!\nNote: Il n’y a plus de base de données access. Les tables ont été converties en fichier CSV.\n4 CSV requis:\n\ntblÉquipes.csv\ntblJoueurs.csv\ntblParties.csv\ntblRépondantsParJoueurs.csv"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GEH Statcan",
-    "section": "",
-    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
-  },
-  {
-    "objectID": "index.html#calendrier-var-saison",
-    "href": "index.html#calendrier-var-saison",
-    "title": "GEH Statcan",
-    "section": "",
-    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
   },
   {
     "objectID": "p2classement.html",
@@ -238,10 +238,38 @@
     "text": "Questionnaire 1 (parties du 18 octobre au 13 décembre)\nQuestionnaire 2 (parties du 10 janvier au 13 mars)\nQuestionnaire 3 (parties arpès le 13 mars)\n\n\n\nMis à jour le 31 août 2023\n\n\n\nMis à jour - août 2016\n\n\n\nMis à jour le 31 août 2023"
   },
   {
-    "objectID": "p9apropos.html",
-    "href": "p9apropos.html",
-    "title": "À propos",
+    "objectID": "p6calendrierseries.html",
+    "href": "p6calendrierseries.html",
+    "title": "GEH Statcan",
     "section": "",
-    "text": "Ligue de génies en herbe de Statistique Canada (GEH Statcan)\nSite créé avec Quarto en intégrant des tableaux R avec la package reactable.\nDes questions, des erreurs sur le site : martin.sirois70@gmail.com\nCréation du site : octobre 2023\n\n\n\n[1] TRUE\n\n\nLe contenu a été copié avec succès de F:/Users/MM/Documents/Git/CreationPageWeb/Quarto//sitewebracine/Saison22/SaisonReg vers C:/GIT/gehstatcan.github.io/Saison22"
+    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "p6calendrierseries.html#calendrier---séries-var-saison",
+    "href": "p6calendrierseries.html#calendrier---séries-var-saison",
+    "title": "GEH Statcan",
+    "section": "",
+    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "p8compteursseries.html",
+    "href": "p8compteursseries.html",
+    "title": "Compteurs - séries 2023-2024",
+    "section": "",
+    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "p8compteursseries.html#les-joueurs",
+    "href": "p8compteursseries.html#les-joueurs",
+    "title": "Compteurs - séries 2023-2024",
+    "section": "",
+    "text": "Vous voyez une erreur : martin.sirois70@gmail.com"
+  },
+  {
+    "objectID": "procesverbaux.html",
+    "href": "procesverbaux.html",
+    "title": "Procès-verbaux",
+    "section": "",
+    "text": "Membre du Comité décisionnel\n\nJulien Bérard-Chagnon, Julie Bernier, Sébastien Landry, Stéphane Martineau, Stéphane Mongeau, Geneviève Ouellet, Pierre Parent, Sylvain Perron, Martin Sirois\n\nRéunion #1: 29 septembre 2005, JT 11 D à midi - Procès-verbal\nRéunion #2: 20 juin 2006, JT 11 E à midi - Procès-verbal\nRéunion #3: 27 juin 2007, JT 11 D à midi - Procès-verbal\nRéunion #4: 9 juillet 2008, RHC 16-3 à midi - Procès-verbal\nRéunion #5: 8 juillet 2009, RHC 11-4 à midi - Procès-verbal\nRéunion #6: 30 juin 2010, RHC 11-4 à midi - Procès-verbal\nRéunion #7: 29 juin 2011, RHC 11-4 à midi - Procès-verbal\nRéunion #8: 21 juin 2012, RHC 16-3 à midi - Procès-verbal\nRéunion #9: 15 mai 2013, RHC 16-3 à midi - Procès-verbal\nRéunion #10: 28 mai 2014, RHC 16-3 à midi - Procès-verbal\nRéunion #11: 28 mai 2015, RHC 16-3 à midi - Procès-verbal\nRéunion #12: 18 mai 2016, RHC 16-3 à midi - Procès-verbal\nRéunion #13: 30 août 2017, RHC 16-3 à midi - Procès-verbal\nRéunion #14: 30 mai 2018, RHC 16-3 à midi - Procès-verbal\nRéunion #15: 12 juin 2019, RHC 16-3 à midi - Procès-verbal\nRéunion #16: 13 janvier 2021, MS Teams à midi - Procès-verbal\nRéunion #17: 25 août 2021, MS Teams à midi - Procès-verbal"
   }
 ]
