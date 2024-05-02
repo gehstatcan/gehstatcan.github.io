@@ -156,7 +156,7 @@ td
 	text-underline-style:single;
 	text-align:left;
 	vertical-align:middle;
-	border-top:.5pt solid windowtext;
+	border-top:none;
 	border-right:none;
 	border-bottom:none;
 	border-left:.5pt solid windowtext;
@@ -172,7 +172,7 @@ td
 	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
-	border-top:.5pt solid windowtext;
+	border-top:none;
 	border-right:.5pt solid windowtext;
 	border-bottom:none;
 	border-left:none;
@@ -266,7 +266,7 @@ td
 	mso-font-charset:0;
 	text-align:left;
 	vertical-align:middle;
-	border-top:.5pt solid windowtext;
+	border-top:none;
 	border-right:.5pt solid windowtext;
 	border-bottom:none;
 	border-left:none;
@@ -392,7 +392,7 @@ td
 	mso-font-charset:0;
 	text-align:center;}
 .xl98
-	{mso-style-parent:style0;
+	{mso-style-parent:style62;
 	color:blue;
 	text-decoration:underline;
 	text-underline-style:single;
@@ -411,7 +411,7 @@ td
 	border-bottom:.5pt solid windowtext;
 	border-left:none;}
 .xl100
-	{mso-style-parent:style62;
+	{mso-style-parent:style0;
 	color:blue;
 	text-decoration:underline;
 	text-underline-style:single;
@@ -419,3 +419,52 @@ td
 	border-right:none;
 	border-bottom:.5pt solid windowtext;
 	border-left:none;}
+.xl101
+	{mso-style-parent:style62;
+	color:blue;
+	font-weight:700;
+	text-decoration:underline;
+	text-underline-style:single;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-left:12px;
+	mso-char-indent-count:1;}
+.xl102
+	{mso-style-parent:style62;
+	color:blue;
+	font-weight:700;
+	text-decoration:underline;
+	text-underline-style:single;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-left:12px;
+	mso-char-indent-count:1;}
+.xl103
+	{mso-style-parent:style62;
+	color:blue;
+	font-weight:700;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
