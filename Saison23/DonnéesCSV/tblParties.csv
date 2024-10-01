@@ -1,0 +1,36 @@
+NoPartie,Date,Salle,NomAnimateur,NoQuestionnaire,NoÉquipeA,NoÉquipeB,NoÉquipeQuestionnaire,LienReunion,LienConsole,LienBouton
+1,2024-10-16,JT,Stéphanie Audet-Brazeau,1,5,6,2,NA,NA,NA
+2,2024-10-16,RHC,Pierre Parent,1,4,7,2,NA,NA,NA
+3,2024-10-23,JT,Martin Sirois,2,6,2,5,NA,NA,NA
+4,2024-10-23,RHC,Sébastien Landry,2,3,7,5,NA,NA,NA
+5,2024-11-06,JT,Martin Sirois,3,1,2,4,NA,NA,NA
+6,2024-11-06,RHC,Sébastien Landry,3,7,6,4,NA,NA,NA
+7,2024-11-20,JT,Martin Sirois,4,2,7,1,NA,NA,NA
+8,2024-11-20,RHC,Stéphanie Audet-Brazeau,4,4,6,1,NA,NA,NA
+9,2024-11-27,JT,Pierre Parent,5,5,1,3,NA,NA,NA
+10,2024-11-27,RHC,Sébastien Landry,5,6,7,3,NA,NA,NA
+11,2024-12-04,JT,Philippe Bérubé,6,1,5,7,NA,NA,NA
+12,2024-12-04,RHC,Sébastien Landry,6,3,6,7,NA,NA,NA
+13,2024-12-11,JT,Stéphanie Audet-Brazeau,7,7,5,6,NA,NA,NA
+14,2024-12-11,RHC,Stéphane Mongeau,7,4,2,6,NA,NA,NA
+15,2025-01-08,JT,A_Determiner,8,5,3,NA,NA,NA,NA
+16,2025-01-08,RHC,A_Determiner,8,1,6,NA,NA,NA,NA
+17,2025-01-15,JT,A_Determiner,9,1,3,NA,NA,NA,NA
+18,2025-01-15,RHC,A_Determiner,9,2,4,NA,NA,NA,NA
+19,2025-01-22,JT,A_Determiner,10,5,2,NA,NA,NA,NA
+20,2025-01-22,RHC,A_Determiner,10,7,1,NA,NA,NA,NA
+21,2025-01-29,JT,A_Determiner,11,4,5,NA,NA,NA,NA
+22,2025-01-29,RHC,A_Determiner,11,7,3,NA,NA,NA,NA
+23,2025-02-12,JT,A_Determiner,12,6,1,NA,NA,NA,NA
+24,2025-02-12,RHC,A_Determiner,12,4,3,NA,NA,NA,NA
+25,2025-02-19,JT,A_Determiner,13,5,4,NA,NA,NA,NA
+26,2025-02-19,RHC,A_Determiner,13,1,7,NA,NA,NA,NA
+27,2025-02-26,JT,A_Determiner,14,2,5,NA,NA,NA,NA
+28,2025-02-26,RHC,A_Determiner,14,6,3,NA,NA,NA,NA
+29,2025-03-12,JT,A_Determiner,15,3,5,NA,NA,NA,NA
+30,2025-03-12,RHC,A_Determiner,15,7,2,NA,NA,NA,NA
+31,2025-03-26,JT,A_Determiner,16,3,2,NA,NA,NA,NA
+32,2025-03-26,RHC,A_Determiner,16,6,4,NA,NA,NA,NA
+33,2025-04-02,JT,A_Determiner,17,2,3,NA,NA,NA,NA
+34,2025-04-02,RHC,A_Determiner,17,1,4,NA,NA,NA,NA
+35,2025-04-09,JT,A_Determiner,18,4,1,NA,NA,NA,NA
