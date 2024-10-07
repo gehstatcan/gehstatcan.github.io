@@ -70,6 +70,13 @@
     "text": "Mise à jours des pages\n\npull de github (https://github.com/gehstatcan/gehstatcan.github.io)\nIl faut les fichiers CSV suivant dans C:/GIT/gehstatcan.github.io\n\ntblParties.csv\ntblÉquipes.csv\ntblJoueurs.csv\ntblRépondantsParJoueurs\n\nAjouter les points de la partie dans tblRépondantsParJoueurs. Habituellement 10 lignes. Le fichier Saisie des points.xlsx (Excel 365 seulement) peut aider pour cette tâche .\npull de https://github.com/gehstatcan/CreationPageWeb\nOuvrir le projet R GEHStatcanQMD.Rproj\nfaire un “Render” du site. menu Build|Render Web s\nCopier le contenu de \\sitewebracine\\Saison22\\SaisonReg vers C:\\GIT\\gehstatcan.github.io\\Saison22\\SaisonReg\n\nEnvoyer les fichiers du répertoire output-dir: dans le fichier _quarto.yml vers https://github.com/gehstatcan/gehstatcan.github.io (“sitewebracine/Quarto/saison22/SaisonReg”)\n\nMoi, j’utilise GitKraken, donc, je copie de output-dir vers mon répertoire lié à GitKraken\n\n\nNote: Je veux revoir la structure des répertoire. Par exemple, ce fichier devrait être dans “racine/documentation” et non “/Saison22”!\nNote: Il n’y a plus de base de données access. Les tables ont été converties en fichier CSV.\n4 CSV requis:\n\ntblÉquipes.csv\ntblJoueurs.csv\ntblParties.csv\ntblRépondantsParJoueurs.csv"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Accueil",
+    "section": "",
+    "text": "Bienvenue sur GEH Statcan\nBienvenue sur le site officiel de GEH Statcan. Utilisez le menu ci-dessus pour naviguer à travers les différentes sections du site."
+  },
+  {
     "objectID": "p0calendrier.html",
     "href": "p0calendrier.html",
     "title": "GEH Statcan",
