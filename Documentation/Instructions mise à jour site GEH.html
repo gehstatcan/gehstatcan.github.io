@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 24.8.2.1 (Windows)"/>
+	<meta name="created" content="2024-11-14T12:24:09.426000000"/>
+	<meta name="changed" content="2024-11-14T13:19:31.909000000"/>
+	<style type="text/css">
+		@page { size: 21.59cm 27.94cm; margin: 2cm }
+		p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
+		h1 { margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
+		h1.western { font-family: "Liberation Sans", sans-serif; font-size: 18pt; font-weight: bold }
+		h1.cjk { font-family: "Microsoft YaHei"; font-size: 18pt; font-weight: bold }
+		h1.ctl { font-family: "Lucida Sans"; font-size: 18pt; font-weight: bold }
+		h4 { margin-top: 0.21cm; margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
+		h4.western { font-family: "Liberation Sans", sans-serif; font-size: 13pt; font-style: italic; font-weight: bold }
+		h4.cjk { font-family: "Microsoft YaHei"; font-size: 13pt; font-style: italic; font-weight: bold }
+		h4.ctl { font-family: "Lucida Sans"; font-size: 13pt; font-style: italic; font-weight: bold }
+		a:link { color: #000080; text-decoration: underline }
+		a:visited { color: #800000; text-decoration: underline }
+	</style>
+</head>
+<body lang="fr-CA" link="#000080" vlink="#800000" dir="ltr"><p align="center" style="line-height: 100%; margin-top: 0.42cm; margin-bottom: 0.21cm; page-break-after: avoid">
+<font face="Liberation Sans, sans-serif"><font size="6" style="font-size: 28pt"><b>Instructions
+pour la mise à jour après une partie</b></font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<h1 class="western">Prérequis</h1>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">avoir
+GitKraken et Rstudio.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<h1 class="western">Mise à jour du fichier avec le pointage</h1>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">Fichier
+à mettre à jour avec le pointage de la partie</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">
+<a href="https://github.com/gehstatcan/gehstatcan.github.io/blob/main/Saison23/Donn%C3%A9esCSV/tblR%C3%A9pondantsParJoueurs.csv">https://github.com/gehstatcan/gehstatcan.github.io/blob/main/Saison23/Donn%C3%A9esCSV/tblR%C3%A9pondantsParJoueurs.csv</a></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">Pour
+faciliter la tâche, j’ai créer le fichier Excel (optionnel mais
+ça va bien en titi)</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><a href="https://github.com/gehstatcan/gehstatcan.github.io/blob/main/Saison23/Donn%C3%A9esCSV/Saisie%20des%20points.xlsx">https://github.com/gehstatcan/gehstatcan.github.io/blob/main/Saison23/Donn%C3%A9esCSV/Saisie%20des%20points.xlsx</a></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">Il faut
+toutefois s’assurer que les onglets <b>tblÉquipes</b> et
+<b>tblJoueurs</b> soient à jour. Ce n’est pas le cas s’il y a eu
+des nouveaux joueurs…</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<h4 class="western">Les étapes</h4>
+<ol>
+	<li><p style="margin-bottom: 0cm">Pull
+	https://github.com/gehstatcan/gehstatcan.github.io</p></li>
+	<li><p style="margin-bottom: 0cm">Mon répretoire local&nbsp;
+	:&quot;C:\GIT\gehstatcan.github.io\</p></li>
+	<li><p style="margin-bottom: 0cm">ouvrir
+	&quot;C:\GIT\gehstatcan.github.io\Saison23\DonnéesCSV\Saisie des
+	points.xlsx&quot;</p></li>
+	<li><p style="margin-bottom: 0cm">S'assurer que les onglets
+	tblÉquipes et tblJoueurs soient à jour.</p></li>
+	<li><p style="margin-bottom: 0cm">Ouvrir <b>Saisie des points.xlsx</b></p></li>
+	<li><p style="margin-bottom: 0cm">Onglet <b>Saisie</b></p></li>
+	<li><p style="margin-bottom: 0cm">Entrer le # de partie dans <b>B2</b>
+	et les noms d'équipes dans <b>B3</b> et <b>B4</b>.</p></li>
+	<li><p style="margin-bottom: 0cm">Entrer les points par joueurs dans
+	<b>D8 à D33</b>. S'assurer de vider les points avant.</p></li>
+	<li><p style="margin-bottom: 0cm">Copier <b>K4</b> à <b>K13</b>
+	dans
+	&quot;C:\GIT\gehstatcan.github.io\Saison23\DonnéesCSV\tblRépondantsParJoueurs.csv&quot;</p></li>
+	<li><p>Si le fichier n'existe pas (parties 1 et 2), le copier d'une
+	saison précédente et conserver les en-têtes.</p></li>
+</ol>
+<h1 class="western">Mise à jour du site web</h1>
+<h4 class="western">Mes répertoires</h4>
+<p align="left" style="margin-bottom: 0cm">Pour simplifier, voici les
+répertoires que j’utilisent sur mon ordi. Ce sont toutefois des
+paramètres modifiables dans le fichier <b>_variables.yml</b></p>
+<p align="left" style="font-weight: normal; margin-bottom: 0cm">Mon
+exemple est pour la saison 23!</p>
+<p align="left" style="margin-bottom: 0cm"><br/>
+
+</p>
+<p style="line-height: 100%; margin-bottom: 0cm"><font face="Courier New, monospace"><font size="3" style="font-size: 12pt">répertoire_données:
+&quot;C:/GIT/gehstatcan.github.io/Saison23/DonnéesCSV&quot;<br/>
+répertoire_code:
+&quot;F:/Users/MM/Documents/Git/CreationPageWeb/Quarto/&quot;</font></font></p>
+<p align="left" style="margin-bottom: 0cm"><br/>
+
+</p>
+<h4 class="western">Les étapes</h4>
+<ol>
+	<li><p>Ouvrir le projet
+	<a href="https://github.com/gehstatcan/gehstatcan.github.io/">https://github.com/gehstatcan/gehstatcan.github.io/</a>
+	avec GitKraken</p></li>
+	<li><p>Récupérer les fichiers les plus récent avec un PULL.</p>
+	<ol type="a">
+		<li><p>Le but est d’avoir les CSV les plus récent.</p></li>
+		<li><p>Moi, ça va dans  <font face="Courier New, monospace"><font size="3" style="font-size: 12pt">C:/GIT/gehstatcan.github.io/...</font></font></p></li>
+	</ol>
+	<li><p>Ouvrir le projet
+	<a href="https://github.com/gehstatcan/gehstatcan.github.io/">https://github.com/gehstatcan/gehstatcan.github.io/</a>
+	avec GitKraken</p></li>
+	<li><p>Récupérer les fichiers les plus récent avec un PULL.</p>
+	<ol type="a">
+		<li><p>C’est ce projet qui génére le site WEB</p></li>
+	</ol>
+	<li><p>ouvrir &quot;...\CreationPageWeb\Quarto\GEHStatcanQMD.Rproj&quot;
+	avec Rstudio ou autre éditeur</p></li>
+	<li><p>Ajuster le fichier _variables.yml pour votre répertoire et
+	la saison en cours.</p></li>
+	<li><p>Menu Build | Render web site</p></li>
+	<li><p>En présaison, le fichier pointsparjoueur ne doit pas être
+	là. C'est ce qui fait que le site ne va pas générer de
+	classements.</p></li>
+	<li><p>Copier de 
+	</p></li>
+</ol>
+<p style="margin-left: 2.5cm">F:\Users\MM\Documents\Git\CreationPageWeb\Quarto\sitewebracine\saison23
+</p>
+<p style="margin-left: 2.5cm">vers 
+</p>
+<p style="margin-left: 2.5cm">C:\GIT\gehstatcan.github.io\Saison23\SaisonReg</p>
+<ol start="10">
+	<li><p>De GitKraken, faire un <b>Commit </b>et un <b>PUSH </b><span style="font-weight: normal">du
+	projet  </span><a href="https://github.com/gehstatcan/gehstatcan.github.io/"><span style="font-weight: normal">https://github.com/gehstatcan/gehstatcan.github.io</span></a></p></li>
+</ol>
+<h4 class="western">Sauvegarde des questionnaires sur le site</h4>
+<ol>
+	<li value="1"><p>Ouvrir le questionnaire en Excel, le sauvegarder en
+	format HTM/HTML sous
+	C:\GIT\gehstatcan.github.io\Saison23\SaisonReg\Questionnaires\</p></li>
+	<li><p>De gitkraken (ou autre), pousser vers github&nbsp; (commit,
+	push...)</p></li>
+</ol>
+</body>
+</html>
