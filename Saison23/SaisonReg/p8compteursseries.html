@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c3d26f9bc4cfb8b502a0e3d5b3e90f05.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,6 +66,22 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="site_libs/core-js-2.5.3/shim.min.js"></script>
+
+<script src="site_libs/react-18.2.0/react.min.js"></script>
+
+<script src="site_libs/react-18.2.0/react-dom.min.js"></script>
+
+<script src="site_libs/reactwidget-2.0.0/react-tools.js"></script>
+
+<link href="site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+
+<script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<link href="site_libs/reactable-0.4.4/reactable.css" rel="stylesheet">
+
+<script src="site_libs/reactable-binding-0.4.4/reactable.js"></script>
+
 
 
 <link rel="stylesheet" href="styles.css">
@@ -125,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
 
 
 
@@ -135,9 +151,21 @@ ul.task-list li input[type="checkbox"] {
 <!--# Code à rouler en premier. Inclus dans _lectureCSV. -->
 <section id="les-équipes" class="level2">
 <h2 class="anchored" data-anchor-id="les-équipes">Les équipes</h2>
+<div class="cell">
+<div class="cell-output-display">
+<div class="reactable html-widget html-fill-item" id="htmlwidget-25086b3e59a1374d3a3d" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-25086b3e59a1374d3a3d">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Position":[],"NomÉquipe":[],"PJ":[],"Points":[],"PointsParPJ":[]},"columns":[{"id":"Position","name":"Pos","type":"numeric","cell":[],"maxWidth":50,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"NomÉquipe","name":"Équipe","type":"character","cell":[],"maxWidth":250,"align":"left","headerStyle":{"background":"#f7f7f8"}},{"id":"PJ","name":"PJ","type":"numeric","cell":[],"maxWidth":50,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"Points","name":"Pts","type":"numeric","cell":[],"maxWidth":50,"align":"center","headerStyle":{"background":"#f7f7f8"}},{"id":"PointsParPJ","name":"Pts/PJ","type":"numeric","cell":[],"maxWidth":70,"align":"center","headerStyle":{"background":"#f7f7f8"}}],"pagination":false,"highlight":true,"theme":{"cellPadding":"2px 5px"},"dataKey":"0931f292d04f6b7a9cd83e1262a8e78b"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
 </section>
 <section id="les-joueurs" class="level2">
 <h2 class="anchored" data-anchor-id="les-joueurs">Les joueurs</h2>
+<div class="cell">
+<div class="cell-output-display">
+<div class="reactable html-widget html-fill-item" id="htmlwidget-01bf66ac2863bc2d03a4" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-01bf66ac2863bc2d03a4">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Position":[],"NomComplet":[],"NomÉquipe":[],"PJ":[],"Points":[],"PointsParPJ":[]},"columns":[{"id":".details","name":"","type":null,"align":"center","headerStyle":{"background":"#f7f7f8"},"sortable":false,"resizable":false,"filterable":false,"searchable":false,"width":45,"details":[]},{"id":"Position","name":"Pos","type":"numeric","align":"center","headerStyle":{"background":"#f7f7f8"},"maxWidth":50},{"id":"NomComplet","name":"Joueur","type":"character","align":"left","headerStyle":{"background":"#f7f7f8"},"maxWidth":270},{"id":"NomÉquipe","name":"Équipe","type":"character","align":"left","headerStyle":{"background":"#f7f7f8"},"maxWidth":250},{"id":"PJ","name":"PJ","type":"numeric","align":"center","headerStyle":{"background":"#f7f7f8"},"maxWidth":50},{"id":"Points","name":"Pts","type":"numeric","align":"center","headerStyle":{"background":"#f7f7f8"},"cell":[],"maxWidth":50},{"id":"PointsParPJ","name":"Pts/PJ","type":"numeric","align":"center","headerStyle":{"background":"#f7f7f8"},"cell":[],"maxWidth":70}],"searchable":true,"pagination":false,"highlight":true,"theme":{"cellPadding":"2px 5px","searchInputStyle":{"width":"100%"}},"dataKey":"4be639a26d7cfe982039c2610892aac2"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
 <p><em>Vous voyez une erreur :</em> <a href="mailto:%7B%7B%3C%20var%20email.support%20%3E%7D%7D">martin.sirois70@gmail.com</a></p>
 
 
@@ -227,6 +255,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -337,6 +367,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
