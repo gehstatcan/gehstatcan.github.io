@@ -1,0 +1,4098 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Location: file:///C:/09732654/Match14.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"Match14_files/filelist.xml">
+<style id=3D"Feuille de match_30230_Styles"><!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:" ";}
+.xl6330230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl6430230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6530230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl6630230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl6730230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl6830230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl6930230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:left;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl7030230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:left;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl7130230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl7230230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7330230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:14.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl7430230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:14.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl7530230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:14.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl7630230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:14.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl7730230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl7830230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl7930230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8030230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8130230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8230230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl8330230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl8430230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8530230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8630230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8730230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8830230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:14.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8930230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl9030230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl9130230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl9230230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9330230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:14.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl9430230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:14.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl9530230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl9630230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9730230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl9830230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl9930230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl10030230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl10130230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl10230230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl10330230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl10430230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl10530230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl10630230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10730230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10830230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#333399;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10930230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#333399;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl11030230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl11130230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#333399;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl11230230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl11330230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl11430230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl11530230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl11630230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl11730230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl11830230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl11930230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl12030230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl12130230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl12230230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl12330230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl12430230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl12530230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl12630230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl12730230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl12830230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl12930230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid black;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl13030230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl13130230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl13230230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid black;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl13330230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid black;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl13430230
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+--></style>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Excel's Publish as=
+ Web
+Page wizard.-->
+<!--If the same item is republished from Excel, all information between the=
+ DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id=3D"Feuille de match_30230" align=3Dcenter x:publishsource=3D"Excel">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D989 class=3Dxl655=
+3530230
+ style=3D'border-collapse:collapse;table-layout:fixed;width:743pt'>
+ <col class=3Dxl6553530230 width=3D24 style=3D'mso-width-source:userset;mso=
+-width-alt:
+ 877;width:18pt'>
+ <col class=3Dxl6330230 width=3D438 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 16018;width:329pt'>
+ <col class=3Dxl6330230 width=3D182 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 6656;width:137pt'>
+ <col class=3Dxl6330230 width=3D0 style=3D'display:none;mso-width-source:us=
+erset;
+ mso-width-alt:1828'>
+ <col class=3Dxl6330230 width=3D0 style=3D'display:none;mso-width-source:us=
+erset;
+ mso-width-alt:1865'>
+ <col class=3Dxl6430230 width=3D177 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 6473;width:133pt'>
+ <col class=3Dxl6430230 width=3D168 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 6144;width:126pt'>
+ <col class=3Dxl6553530230 width=3D0 style=3D'display:none;mso-width-source=
+:userset;
+ mso-width-alt:2267'>
+ <tr height=3D18 style=3D'height:13.5pt'>
+  <td height=3D18 class=3Dxl6553530230 width=3D24 style=3D'height:13.5pt;wi=
+dth:18pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6430230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl6430230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230 width=3D0></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl6553530230 style=3D'height:15.75pt'></td>
+  <td class=3Dxl6530230 width=3D438 style=3D'width:329pt'>Numéro de partie =
+:</td>
+  <td class=3Dxl6630230 width=3D182 style=3D'width:137pt'>14</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td colspan=3D2 height=3D21 class=3Dxl6530230 width=3D462 style=3D'border=
+-right:1.0pt solid black;
+  height:15.75pt;width:347pt'>Équipe de(s) l’auteur(s)&nbsp;:<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl6830230 width=3D182 style=3D'width:137pt'>Les érudits en ge=
+rbe</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td colspan=3D2 height=3D21 class=3Dxl6530230 width=3D462 style=3D'border=
+-right:1.0pt solid black;
+  height:15.75pt;width:347pt'>Date de la partie&nbsp;:</td>
+  <td class=3Dxl6930230 width=3D182 style=3D'width:137pt'>2019-12-04</td>
+  <td class=3Dxl7030230 width=3D0></td>
+  <td class=3Dxl7030230 width=3D0></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td colspan=3D2 height=3D21 class=3Dxl6530230 width=3D462 style=3D'border=
+-right:1.0pt solid black;
+  height:15.75pt;width:347pt'>Équipe A&nbsp;:</td>
+  <td class=3Dxl11030230 width=3D182 style=3D'width:137pt'>Les Disciples de=
+ Yaourt</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D2 height=3D22 class=3Dxl6530230 width=3D462 style=3D'border=
+-right:1.0pt solid black;
+  height:16.5pt;width:347pt'>Équipe B&nbsp;:</td>
+  <td class=3Dxl11130230 width=3D182 style=3D'width:137pt'>Les Herbizarres<=
+/td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl13430230 width=3D644 style=3D'heigh=
+t:16.5pt;
+  width:484pt'>&nbsp;</td>
+  <td class=3Dxl7130230 width=3D0></td>
+  <td class=3Dxl7130230 width=3D0></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 1</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>Langue</td>
+  <td class=3Dxl7530230 width=3D0></td>
+  <td class=3Dxl7530230 width=3D0></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7630230 width=3D438 style=3D'width:329pt'>Individuelle</td>
+  <td class=3Dxl7730230 width=3D182 style=3D'width:137pt'>Vocabulaire</td>
+  <td class=3Dxl7830230 width=3D0></td>
+  <td class=3Dxl7830230 width=3D0></td>
+  <td class=3Dxl7930230>Équipe</td>
+  <td class=3Dxl7930230>Joueur</td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12730230 width=3D644 style=3D'borde=
+r-right:1.0pt solid black;
+  height:16.5pt;width:484pt'>Équipe A</td>
+  <td class=3Dxl8030230 width=3D0>pts A</td>
+  <td class=3Dxl8030230 width=3D0>pts B</td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6430230>Rangé</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>1</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Mots avec au moin=
+s 2 H :
+  élève préféré d'un professeur, mot avec syllabe redoublée</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Chouchou</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230 align=3Dright>2</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Danse originaire =
+du
+  Mexique, dérivée de la rumba et du mambo, mot à syllabe triple identique<=
+/td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Cha-cha-cha</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Kevin Borrelli</td>
+  <td class=3Dxl8430230 align=3Dright>3</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Chien de compagnie
+  d'origine chinoise, mot à syllabe redoublée</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Chow-chow</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Claude Dionne</td>
+  <td class=3Dxl8430230 align=3Dright>4</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>4</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Comportement qui =
+manque de
+  simplicité, souci exagéré du protocole, mot à syllabe redoublée</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Chichi</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>5</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl13030230 width=3D644 style=3D'borde=
+r-right:1.0pt solid black;
+  height:16.5pt;width:484pt'>Équipe B</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>5</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Mots avec deux V,=
+ mais sans
+  syllabe redoublée. Contraire de tutoyer</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Vouvoyer</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Stéphane Martineau</td>
+  <td class=3Dxl8430230 align=3Dright>6</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>6</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Soupape à clapet =
+qui
+  empêche le reflux d'un liquide</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Valve</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Geneviève Ouellet</td>
+  <td class=3Dxl8430230 align=3Dright>7</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>7</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Type de mémoire
+  d'ordinateur, ou cri d'acclamation</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Vive</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Michel Parenteau</td>
+  <td class=3Dxl8430230 align=3Dright>8</td>
+ </tr>
+ <tr height=3D43 style=3D'height:32.25pt'>
+  <td height=3D43 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:32.25pt;
+  width:18pt'>8</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Plante dont une e=
+spèce a
+  des vertus calmantes dont on fait de la tisane ; c'était aussi le nom d'un
+  personnage de Dany Turcotte.</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Verveine</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Frédéric Bédard</td>
+  <td class=3Dxl8430230 align=3Dright>9</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td colspan=3D3 height=3D21 class=3Dxl12030230 width=3D644 style=3D'heigh=
+t:15.75pt;
+  width:484pt'>&nbsp;</td>
+  <td class=3Dxl8630230 width=3D0></td>
+  <td class=3Dxl8630230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>30</td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 2</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>Géographie</td>
+  <td class=3Dxl8630230 width=3D0></td>
+  <td class=3Dxl8630230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>40</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl8730230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl8830230 width=3D438 style=3D'width:329pt'>Collective</td>
+  <td class=3Dxl8930230 align=3Dright width=3D182 style=3D'width:137pt'>0</=
+td>
+  <td class=3Dxl7830230 width=3D0></td>
+  <td class=3Dxl7830230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>1</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Dans quelle île d=
+es
+  Antilles la moitié sud est-elle devenue inhabitable suite à une éruption
+  volcanique en 1997?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Montserrat</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>10</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quel terme désigne
+  l'ensemble des cours d'eau d'une région donnée?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>hydrographie</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Frédéric Bédard</td>
+  <td class=3Dxl8430230>11</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quelle est la cap=
+itale du
+  Zimbabwe?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Harare</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230>12</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>4</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quels sont les de=
+ux fleuves
+  qui forment l'estuaire de la Gironde?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Garonne et Dordog=
+ne</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>13</td>
+ </tr>
+ <tr height=3D43 style=3D'height:32.25pt'>
+  <td height=3D43 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:32.25pt;
+  width:18pt'>5</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>Quel est le premi=
+er pays
+  hors des États-Unis où un parc Disney a été ouvert?</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>Japon</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Geneviève Ouellet</td>
+  <td class=3Dxl8430230>14</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td colspan=3D3 height=3D21 class=3Dxl12630230 width=3D644 style=3D'heigh=
+t:15.75pt;
+  width:484pt'>&nbsp;</td>
+  <td class=3Dxl8630230 width=3D0></td>
+  <td class=3Dxl8630230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>40</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D50 style=3D'height:37.5pt'>
+  <td height=3D50 class=3Dxl7230230 style=3D'height:37.5pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 3</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>Arts, cinéma et t=
+élévision</td>
+  <td class=3Dxl7530230 width=3D0></td>
+  <td class=3Dxl7530230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>60</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl8730230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl8830230 width=3D438 style=3D'width:329pt'>Collective</td>
+  <td class=3Dxl8930230 align=3Dright width=3D182 style=3D'width:137pt'>0</=
+td>
+  <td class=3Dxl7830230 width=3D0></td>
+  <td class=3Dxl7830230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>1</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Avec quel film Xa=
+vier Dolan
+  a-t-il remporté le Grand Prix du Jury au Festival de Cannes en 2016?<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Juste la fin du m=
+onde</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Stéphane Martineau</td>
+  <td class=3Dxl8430230 align=3Dright>15</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Qui a peint la to=
+ile
+  &quot;Les Nénuphars&quot; ?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Claude Monet</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Stéphane Martineau</td>
+  <td class=3Dxl8430230 align=3Dright>16</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quel personnage c=
+inématique
+  a été incarné par Tobey McGuire, Andrew Garfield et Tom Holland?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Spiderman</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Kevin Borrelli</td>
+  <td class=3Dxl8430230 align=3Dright>17</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>4</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>À plus ou moins 2=
+ près,
+  combien de fois la comédienne et humoriste Dominique Michel a-t-elle
+  participé au Bye Bye dans sa carrière?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>18 (accepter de 1=
+6 à 20)</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bruno Morin</td>
+  <td class=3Dxl8430230 align=3Dright>18</td>
+ </tr>
+ <tr height=3D43 style=3D'height:32.25pt'>
+  <td height=3D43 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:32.25pt;
+  width:18pt'>5</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>Quel film est l'i=
+nspiration
+  pour la série Netflix du même nom avec le sous-titre &quot;L'Ère de la
+  résistance&quot;?</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>Dark Crystal</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>19</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl6553530230 style=3D'height:16.5pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>60</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl9230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl9330230 width=3D438 style=3D'width:329pt'>Série 4</td>
+  <td class=3Dxl9430230 width=3D182 style=3D'width:137pt'>Société</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>80</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl8730230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl8830230 width=3D438 style=3D'width:329pt'>Collective</td>
+  <td class=3Dxl8930230 align=3Dright width=3D182 style=3D'width:137pt'>0</=
+td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>1</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quelle circonscri=
+ption
+  provinciale François Legault représente-t-il?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>L'Assomption</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Geneviève Ouellet</td>
+  <td class=3Dxl8430230 align=3Dright>20</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Sous quel nom éta=
+it
+  anciennement connue la famille d'avions A220?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Cseries</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Geneviève Ouellet</td>
+  <td class=3Dxl8430230 align=3Dright>21</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Combien y a-t-il =
+de langues
+  officielles au niveau fédéral aux États-Unis?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Aucune</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Frédéric Bédard</td>
+  <td class=3Dxl8430230 align=3Dright>22</td>
+ </tr>
+ <tr height=3D63 style=3D'height:47.25pt'>
+  <td height=3D63 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:47.25pt;
+  width:18pt'>4</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Dans quel pays les
+  référendums d'initiative populaire sont-ils permis à trois niveaux
+  politiques, en l'occurrence aux paliers fédéral, cantonnal et communal?</=
+td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>La Suisse</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Geneviève Ouellet</td>
+  <td class=3Dxl8430230 align=3Dright>23</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:16.5pt;
+  width:18pt'>5</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>Qui est le présid=
+ent de la
+  Réserve fédérale américaine?</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>Jerome Powell</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>24</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl9530230 width=3D24 style=3D'height:16.5pt;width=
+:18pt'></td>
+  <td class=3Dxl9530230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl7130230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>60</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl9230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl9330230 width=3D438 style=3D'width:329pt'>Série 5</td>
+  <td class=3Dxl9430230 width=3D182 style=3D'width:137pt'>20ième siècle</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>120</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl8730230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl8830230 width=3D438 style=3D'width:329pt'>Contrôle</td>
+  <td class=3Dxl8930230 width=3D182 style=3D'width:137pt'>1970</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>1</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Lors de quel évèn=
+ement les
+  frères Jacques et Paul Rose ont-ils participé à l'enlèvement du ministre
+  Pierre Laporte ?<span style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Crise d’octobre</=
+td>
+  <td class=3Dxl6730230 width=3D0>5</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Kevin Borrelli</td>
+  <td class=3Dxl8430230 align=3Dright>25</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quel pays obtient=
+ son
+  indépendance du Royaume-Uni le 10 octobre?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Fidji</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>26</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Sous quel nom éta=
+it connue
+  l'Organisation internationale de la Francophonie lorsqu'elle fut fondée en
+  1970?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>L’Agence de coopé=
+ration
+  culturelle et technique</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>27</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>4</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quelle équipe rem=
+porte la
+  série mondiale de baseball cette année-là?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Les Orioles de Ba=
+ltimore</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>28</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:16.5pt;
+  width:18pt'>5</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>Quel album des Be=
+atles sort
+  en 1970?</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>Let it be</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>29</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12030230 width=3D644 style=3D'heigh=
+t:16.5pt;
+  width:484pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>65</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 6</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>(Choisir un thème=
+)</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>130</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl8730230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl8830230 width=3D438 style=3D'width:329pt'>&nbsp;</td>
+  <td class=3Dxl8930230 width=3D182 style=3D'width:137pt'>Paroles de chanso=
+ns</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.25pt'>
+  <td height=3D23 class=3Dxl9630230 style=3D'height:17.25pt'>&nbsp;</td>
+  <td class=3Dxl9730230 width=3D438 style=3D'width:329pt'>&nbsp;</td>
+  <td class=3Dxl9830230 width=3D182 style=3D'width:137pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D63 style=3D'height:47.25pt'>
+  <td height=3D63 class=3Dxl9930230 align=3Dright width=3D24 style=3D'heigh=
+t:47.25pt;
+  width:18pt'>1</td>
+  <td class=3Dxl10030230 width=3D438 style=3D'width:329pt'>Donnez le nom de
+  l'interprète qui a popularisé en premier la chanson dont sont tirées les
+  paroles données :<span style=3D'mso-spacerun:yes'>  </span>Dans le port
+  d'Amsterdam, y a des marins qui chantent</td>
+  <td class=3Dxl10130230 width=3D182 style=3D'width:137pt'>Jacques Brel</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Stéphane Martineau</td>
+  <td class=3Dxl8430230 align=3Dright>30</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Oxygène !! Donnez=
+-moi de
+  l'oxygène !</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Diane Dufresne</t=
+d>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Geneviève Ouellet</td>
+  <td class=3Dxl8430230 align=3Dright>31</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Moi, mes souliers=
+ ont
+  beaucoup voyagé, ils m'ont porté de l'école à la guerre</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Félix Leclerc</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Frédéric Bédard</td>
+  <td class=3Dxl8430230 align=3Dright>32</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:16.5pt;
+  width:18pt'>4</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>Mais moi, je n'su=
+is qu'une
+  chanson</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>Ginette Reno</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bruno Morin</td>
+  <td class=3Dxl8430230 align=3Dright>33</td>
+ </tr>
+ <tr height=3D23 style=3D'height:17.25pt'>
+  <td height=3D23 class=3Dxl9630230 style=3D'height:17.25pt'>&nbsp;</td>
+  <td class=3Dxl9730230 width=3D438 style=3D'width:329pt'>&nbsp;</td>
+  <td class=3Dxl9830230 width=3D182 style=3D'width:137pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl9930230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>5</td>
+  <td class=3Dxl10030230 width=3D438 style=3D'width:329pt'>Je d-d-d-danse d=
+ans ma
+  tête</td>
+  <td class=3Dxl10130230 width=3D182 style=3D'width:137pt'>Céline Dion</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>34</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>6</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Petite Marie, je =
+parle de
+  toi parce qu'avec ta petite voix, …</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Francis Cabrel</t=
+d>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>35</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>7</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Hey ! Perds pas t=
+on temps !
+  T'es pas la fille de ton père, même pas celle-de ta mère, de personne</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Hubert Lenoir</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>36</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:16.5pt;
+  width:18pt'>8</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>Chu rien qu'un ga=
+rs ben
+  ordinaire, des fois j'ai pu l'goût de rien faire,</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>Robert Charlebois=
+</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>37</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12030230 width=3D644 style=3D'borde=
+r-right:1.0pt solid black;
+  height:16.5pt;width:484pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>75</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 7</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>Histoire</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>160</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl8730230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl8830230 width=3D438 style=3D'width:329pt'>Collective</td>
+  <td class=3Dxl8930230 align=3Dright width=3D182 style=3D'width:137pt'>0</=
+td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D63 style=3D'height:47.25pt'>
+  <td height=3D63 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:47.25pt;
+  width:18pt'>1</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quelle émission de
+  Radio-Canada ICI Première est animée par Jacques Beauchamp et porte sur
+  différents événements ou personnalités historiques?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Aujourd'hui l'his=
+toire</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230 align=3Dright>38</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>De quel pays Cons=
+tantin II
+  a-t-il été le dernier roi de 1964 à 1973 ?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Grèce</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>39</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quelle femme fut =
+surnommée
+  &quot;Marie la Sanglante&quot; ?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Marie 1er (Marie =
+Tudor)</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230 align=3Dright>40</td>
+ </tr>
+ <tr height=3D63 style=3D'height:47.25pt'>
+  <td height=3D63 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:47.25pt;
+  width:18pt'>4</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Sous quel vocable=
+ était
+  connue l'Allemagne de 1918 à 1933?<span style=3D'mso-spacerun:yes'> </spa=
+n></td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>République de Wei=
+mar
+  (accepter régime de Weimar)</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230 align=3Dright>41</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:16.5pt;
+  width:18pt'>5</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>De quel crime fut=
+ acquitté
+  le capitaine Ernest Medina en 1971?</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>le massacre de My=
+ Lai</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>42</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12030230 width=3D644 style=3D'heigh=
+t:16.5pt;
+  width:484pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>105</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 8</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>Sports et Loisirs=
+</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>160</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl8730230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl8830230 width=3D438 style=3D'width:329pt'>Collective</td>
+  <td class=3Dxl8930230 align=3Dright width=3D182 style=3D'width:137pt'>0</=
+td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>1</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Dans quelle ville=
+ auront
+  lieu les Olympiques de 2024?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Paris</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230 align=3Dright>43</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quel est le nom d=
+e l'équipe
+  de la NBA qui évolue à Salt Lake City?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Jazz de Utah</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Kevin Borrelli</td>
+  <td class=3Dxl8430230 align=3Dright>44</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Qui est devenu le=
+ premier
+  Canadien en 50 ans à être nommé joueur par excellence de la Coupe Grey en
+  2019?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Andrew Harris</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>45</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>4</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quel pays a gagné=
+ le plus
+  de médailles en patinage artistique féminin dans l'histoire des championn=
+ats
+  mondiaux?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>États-Unis</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Michel Parenteau</td>
+  <td class=3Dxl8430230 align=3Dright>46</td>
+ </tr>
+ <tr height=3D43 style=3D'height:32.25pt'>
+  <td height=3D43 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:32.25pt;
+  width:18pt'>5</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>Qui a gagné le tr=
+ophée
+  Connie Smythe lors de la dernière saison de la LNH?</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>Ryan O'Reilly</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>47</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12630230 width=3D644 style=3D'heigh=
+t:16.5pt;
+  width:484pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>125</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 9</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>Géographie</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>170</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7630230 width=3D438 style=3D'width:329pt'>Question à indice=
+</td>
+  <td class=3Dxl7730230 align=3Dright width=3D182 style=3D'width:137pt'>0</=
+td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl9930230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>1</td>
+  <td class=3Dxl10230230 width=3D438 style=3D'width:329pt'>Quel pays a intr=
+oduit
+  plusieurs premières philatéliques, y compris des timbres 3D, des timbres
+  parlants et des timbres CD-rom?</td>
+  <td class=3Dxl10130230 width=3D182 style=3D'width:137pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>48</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>2</td>
+  <td class=3Dxl10330230 width=3D438 style=3D'width:329pt'>Ce pays ne compt=
+e aucuns
+  feux de circulation et est la seule économie ayant une empreinte carbone
+  négative dans le monde.</td>
+  <td class=3Dxl10430230 width=3D182 style=3D'width:137pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>20</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Frédéric Bédard</td>
+  <td class=3Dxl8430230 align=3Dright>49</td>
+ </tr>
+ <tr height=3D43 style=3D'height:32.25pt'>
+  <td height=3D43 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:32.25pt;
+  width:18pt'>3</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>L'aéroport princi=
+pal de ce
+  pays asiatique se trouve à Paro et sa capitale est Thimphou.</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>Bhoutan</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230 align=3Dright>50</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12030230 width=3D644 style=3D'borde=
+r-right:1.0pt solid black;
+  height:16.5pt;width:484pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>125</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 10</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'><a name=3D"RANGE!=
+C88">(Choisir
+  un thème)</a></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>190</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl8730230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl8830230 width=3D438 style=3D'width:329pt'>Association</td>
+  <td class=3Dxl8930230 width=3D182 style=3D'width:137pt'>Géographie, aérop=
+orts</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12330230 width=3D644 style=3D'borde=
+r-right:1.0pt solid black;
+  height:16.5pt;width:484pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>1</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'><a name=3D"RANGE!=
+B91">Dulles</a></td>
+  <td class=3Dxl8230230 width=3D182 style=3D'width:137pt'>C</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>51</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'><a name=3D"RANGE!=
+B92">Gatwick</a></td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>B</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>52</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'><a name=3D"RANGE!=
+B93">James
+  Armstrong Richardson</a></td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>D Winnipeg</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>53</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:16.5pt;
+  width:18pt'>4</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'><a name=3D"RANGE!=
+B94">O'hare</a></td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>A</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>54</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>1</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Dulles</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>C</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>55</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Gatwick</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>B</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>56</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>James Armstrong R=
+ichardson</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>D Winnipeg</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>57</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:16.5pt;
+  width:18pt'>4</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>O'hare</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>A</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>58</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12630230 width=3D644 style=3D'heigh=
+t:16.5pt;
+  width:484pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>155</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 11</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>Société</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>220</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl8730230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl8830230 width=3D438 style=3D'width:329pt'>Vis-à-vis</td>
+  <td class=3Dxl8930230 width=3D182 style=3D'width:137pt'>Johnson</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>1</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Qui a été élu che=
+f du Parti
+  Québécois suite à la démission de René Lévesque?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Pierre-Marc Johns=
+on
+  (demander le prénom)</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Stéphane Martineau</td>
+  <td class=3Dxl8430230>59</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Qui était vice-pr=
+ésident
+  des États-Unis jusqu'au jour de l'assassinat de John F. Kennedy?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Lyndon B. (Baines=
+) Johnson
+  (demander le prénom)</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Kevin Borrelli</td>
+  <td class=3Dxl8430230>60</td>
+ </tr>
+ <tr height=3D63 style=3D'height:47.25pt'>
+  <td height=3D63 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:47.25pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Qui fut député de=
+ la
+  circonscription provinciale de Johnson de 2012 à 2014 et a remporté la co=
+urse
+  à la direction du Bloc Québécois en 2019?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Yves-François Bla=
+nchet</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>61</td>
+ </tr>
+ <tr height=3D64 style=3D'height:48.0pt'>
+  <td height=3D64 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:48.0pt;
+  width:18pt'>4</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>Quel ancien premi=
+er
+  ministre du Québec est mort en fonction à Manic-5, en 1968</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>Daniel Johnson pè=
+re
+  (accepter uniquement le nom au complet)</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bruno Morin</td>
+  <td class=3Dxl8430230>62</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12030230 width=3D644 style=3D'heigh=
+t:16.5pt;
+  width:484pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>175</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D50 style=3D'height:37.5pt'>
+  <td height=3D50 class=3Dxl7230230 style=3D'height:37.5pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 12</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>Littérature et mu=
+sique</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>230</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl8730230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl8830230 width=3D438 style=3D'width:329pt'>Collective</td>
+  <td class=3Dxl8930230 align=3Dright width=3D182 style=3D'width:137pt'>0</=
+td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>1</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Combien de touche=
+s se
+  trouvent sur un piano?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>88</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Frédéric Bédard</td>
+  <td class=3Dxl8430230 align=3Dright>63</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Qui est l'auteur =
+du roman
+  &quot;Une vie française&quot;?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Jean-Paul Dubois<=
+/td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>64</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Comment se nomme =
+le premier
+  album de Madonna?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Madonna</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>65</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>4</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quel pays représe=
+ntait
+  Céline Dion lors de sa victoire dans le concours Eurovision Song en 1988?=
+</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Suisse</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230>66</td>
+ </tr>
+ <tr height=3D43 style=3D'height:32.25pt'>
+  <td height=3D43 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:32.25pt;
+  width:18pt'>5</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>Qui est le direct=
+eur
+  musical de l'Orchestre symphonique de Montréal depuis 2006?</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>Kent Nagano</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230>67</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12630230 width=3D644 style=3D'heigh=
+t:16.5pt;
+  width:484pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>195</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 13</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>Sciences</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>240</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl8730230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl8830230 width=3D438 style=3D'width:329pt'>Collective</td>
+  <td class=3Dxl8930230 align=3Dright width=3D182 style=3D'width:137pt'>0</=
+td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>1</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Sous quel nom est=
+ mieux
+  connue l'acide ascorbique?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Vitamine C</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Frédéric Bédard</td>
+  <td class=3Dxl8430230>68</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>2</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quels objets peuv=
+ent être
+  des naines blanches ou des géantes rouges?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>des étoiles</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230>69</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>3</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>Quel scientifique=
+, mort en
+  1642, laissa tomber du haut de la Tour de Pise une boule de 10,5 livres?<=
+/td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>Galilée</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230>70</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl8130230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>4</td>
+  <td class=3Dxl8230230 width=3D438 style=3D'width:329pt'>À quoi sert l'éth=
+ylène
+  glycol dans une automobile?</td>
+  <td class=3Dxl8330230 width=3D182 style=3D'width:137pt'>antigel</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Frédéric Bédard</td>
+  <td class=3Dxl8430230>71</td>
+ </tr>
+ <tr height=3D43 style=3D'height:32.25pt'>
+  <td height=3D43 class=3Dxl8530230 align=3Dright width=3D24 style=3D'heigh=
+t:32.25pt;
+  width:18pt'>5</td>
+  <td class=3Dxl9030230 width=3D438 style=3D'width:329pt'>Comment s'appelle=
+ une
+  variation brusque dans le patrimoine héréditaire?</td>
+  <td class=3Dxl9130230 width=3D182 style=3D'width:137pt'>une mutation</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Stéphane Martineau</td>
+  <td class=3Dxl8430230>72</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12030230 width=3D644 style=3D'heigh=
+t:16.5pt;
+  width:484pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>215</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 14</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>Libre</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>270</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7630230 width=3D438 style=3D'width:329pt'>GEHopardy</td>
+  <td class=3Dxl7730230 align=3Dright width=3D182 style=3D'width:137pt'>0</=
+td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl9930230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>1</td>
+  <td class=3Dxl11330230 width=3D438 style=3D'border-left:none;width:329pt'=
+>Quel
+  groupe musical antillo-guyanais a popularisé les titres &quot;Le bal
+  masqué&quot; et &quot;C'est bon pour le moral?&quot;</td>
+  <td class=3Dxl11430230 width=3D182 style=3D'border-left:none;width:137pt'=
+>La
+  compagnie créole</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bruno Morin</td>
+  <td class=3Dxl8430230>73</td>
+ </tr>
+ <tr height=3D63 style=3D'height:47.25pt'>
+  <td height=3D63 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:47.25pt;
+  border-top:none;width:18pt'>2</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Compagnie: Quelle compagnie fondée en 1627 par le Cardinal de
+  Richelieu avait pour but de jeter les bases de l'empire colonial français=
+ en
+  Amérique du Nord?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Compagnie de la Nouvelle-France (ou Compagnie des cent-assoc=
+iés)</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230>74</td>
+ </tr>
+ <tr height=3D63 style=3D'height:47.25pt'>
+  <td height=3D63 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:47.25pt;
+  border-top:none;width:18pt'>3</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Compagnie: Quel entrepreneur d'origine sud-africaine a fondé=
+ The
+  Boring Company en 2016, qui est spécialisée dans la construction de tunne=
+ls
+  pour le transport?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Elon Musk</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Kevin Borrelli</td>
+  <td class=3Dxl8430230>75</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>4</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Compagnie: Quelle institution financière basée sur le modèle
+  coopératif a son siège social à Lévis?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Desjardins</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Stéphane Martineau</td>
+  <td class=3Dxl8430230>76</td>
+ </tr>
+ <tr height=3D63 style=3D'height:47.25pt'>
+  <td height=3D63 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:47.25pt;
+  border-top:none;width:18pt'>5</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Créole: Quels petits beignets frits souvent préparés avec de=
+ la
+  morue et des épices sont servis en entrée ou en hors-d'œuvre dans la cuis=
+ine
+  antillaise et guyanaise?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Les acras</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>77</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>6</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Créole: Que signifie l'expression créole antillaise &quot;sâ=
+ ou
+  fé&quot;?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Comment ça va? (accepter les variantes)</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>78</td>
+ </tr>
+ <tr height=3D64 style=3D'height:48.0pt'>
+  <td height=3D64 class=3Dxl11730230 align=3Dright width=3D24 style=3D'heig=
+ht:48.0pt;
+  border-top:none;width:18pt'>7</td>
+  <td class=3Dxl11830230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Créole: Quel écrivain martiniquais, représentant du mouvement
+  littéraire de la &quot;négritude&quot;, a été maire de Fort-de-France pen=
+dant
+  56 ans?</td>
+  <td class=3Dxl11930230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Aimé Césaire</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Stéphane Martineau</td>
+  <td class=3Dxl8430230>79</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12230230 width=3D644 style=3D'heigh=
+t:16.5pt;
+  width:484pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>245</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 15</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>Divers</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>290</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7630230 width=3D438 style=3D'width:329pt'>Questions Éclair<=
+/td>
+  <td class=3Dxl7730230 align=3Dright width=3D182 style=3D'width:137pt'>0</=
+td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl9930230 align=3Dright width=3D24 style=3D'heigh=
+t:15.75pt;
+  width:18pt'>1</td>
+  <td class=3Dxl11330230 width=3D438 style=3D'border-left:none;width:329pt'=
+>En quelle
+  année le Titanic a-t-il fait naufrage dans l'Atlantique Nord?</td>
+  <td class=3Dxl11430230 width=3D182 style=3D'border-left:none;width:137pt'=
+>1912</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Kevin Borrelli</td>
+  <td class=3Dxl8430230>80</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:15.75pt;
+  border-top:none;width:18pt'>2</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>À 2 près, combien y a-t-il de stations de métro à Montréal?<=
+/td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>68 (accepter + ou - 2)</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230>81</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:15.75pt;
+  border-top:none;width:18pt'>3</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Dans quelle ville ont eu lieu les jeux olympiques d'été de 1=
+960?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Rome</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230>82</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>4</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Quels sont les trois osselets de l'oreille moyenne?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Le marteau, l'enclume et l'étrier</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Frédéric Bédard</td>
+  <td class=3Dxl8430230>83</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>5</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>D'après la chanson de Jacques Brel, dans quel aéroport est-ce
+  triste le dimanche?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Orly</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Frédéric Bédard</td>
+  <td class=3Dxl8430230>84</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>6</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Quel est le seul modèle de voiture entièrement électrique qui
+  est actuellement commercialisé par General Motors?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Bolt EV (accepter Bolt)</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bruno Morin</td>
+  <td class=3Dxl8430230>85</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>7</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Quel ancien président bolivien s'est récemment réfugié au
+  Mexique, suite à l'élection présidentielle de 2019?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Evo Morales</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230>86</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:15.75pt;
+  border-top:none;width:18pt'>8</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Dans quelle région administrative est située la ville de
+  Joliette?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Lanaudière</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Frédéric Bédard</td>
+  <td class=3Dxl8430230>87</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>9</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Quelle région française produit les fromages AOP Pont-L'Évêq=
+ue,
+  Livarot et Neufchâtel?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>La Normandie</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Stéphane Martineau</td>
+  <td class=3Dxl8430230>88</td>
+ </tr>
+ <tr height=3D43 style=3D'height:32.25pt'>
+  <td height=3D43 class=3Dxl11730230 align=3Dright width=3D24 style=3D'heig=
+ht:32.25pt;
+  border-top:none;width:18pt'>10</td>
+  <td class=3Dxl11830230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Quel établissement postsecondaire rattaché à l'Université
+  d'Ottawa possède une faculté de droit canonique et une faculté de théolog=
+ie?</td>
+  <td class=3Dxl11930230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Université Saint-Paul</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Stéphane Martineau</td>
+  <td class=3Dxl8430230>89</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td colspan=3D3 height=3D22 class=3Dxl12230230 width=3D644 style=3D'heigh=
+t:16.5pt;
+  width:484pt'>&nbsp;</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>285</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7330230 width=3D438 style=3D'width:329pt'>Série 16</td>
+  <td class=3Dxl7430230 width=3D182 style=3D'width:137pt'>Divers</td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>340</td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl7230230 style=3D'height:18.75pt'>&nbsp;</td>
+  <td class=3Dxl7630230 width=3D438 style=3D'width:329pt'>Questions Prime</=
+td>
+  <td class=3Dxl7730230 align=3Dright width=3D182 style=3D'width:137pt'>0</=
+td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl6730230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl9930230 align=3Dright width=3D24 style=3D'heigh=
+t:31.5pt;
+  width:18pt'>1</td>
+  <td class=3Dxl11330230 width=3D438 style=3D'border-left:none;width:329pt'=
+>Qui a été
+  désigné ministre du Patrimoine canadien le 20 novembre 2019?</td>
+  <td class=3Dxl11430230 width=3D182 style=3D'border-left:none;width:137pt'=
+>Steven
+  Guilbeault</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Stéphane Martineau</td>
+  <td class=3Dxl8430230>90</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>2</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Qui a été désigné ministre du Patrimoine canadien le 20 nove=
+mbre
+  2019?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Steven Guilbeault</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Geneviève Ouellet</td>
+  <td class=3Dxl8430230>91</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>3</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Qui a été désigné ministre du Patrimoine canadien le 20 nove=
+mbre
+  2019?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Steven Guilbeault</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Michel Parenteau</td>
+  <td class=3Dxl8430230>92</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>4</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Qui a été désigné ministre du Patrimoine canadien le 20 nove=
+mbre
+  2019?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Steven Guilbeault</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl8430230>Les Herbizarres</td>
+  <td class=3Dxl8430230>Frédéric Bédard</td>
+  <td class=3Dxl8430230>93</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>5</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Qui a été désigné ministre du Patrimoine canadien le 20 nove=
+mbre
+  2019?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Steven Guilbeault</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bertrand Ouellet-Léveillé</td>
+  <td class=3Dxl8430230>94</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>6</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Qui a été désigné ministre du Patrimoine canadien le 20 nove=
+mbre
+  2019?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Steven Guilbeault</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Kevin Borrelli</td>
+  <td class=3Dxl8430230>95</td>
+ </tr>
+ <tr height=3D42 style=3D'height:31.5pt'>
+  <td height=3D42 class=3Dxl11530230 align=3Dright width=3D24 style=3D'heig=
+ht:31.5pt;
+  border-top:none;width:18pt'>7</td>
+  <td class=3Dxl11230230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Qui a été désigné ministre du Patrimoine canadien le 20 nove=
+mbre
+  2019?</td>
+  <td class=3Dxl11630230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Steven Guilbeault</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Claude Dionne</td>
+  <td class=3Dxl8430230>96</td>
+ </tr>
+ <tr height=3D43 style=3D'height:32.25pt'>
+  <td height=3D43 class=3Dxl11730230 align=3Dright width=3D24 style=3D'heig=
+ht:32.25pt;
+  border-top:none;width:18pt'>8</td>
+  <td class=3Dxl11830230 width=3D438 style=3D'border-top:none;border-left:n=
+one;
+  width:329pt'>Qui a été désigné ministre du Patrimoine canadien le 20 nove=
+mbre
+  2019?</td>
+  <td class=3Dxl11930230 width=3D182 style=3D'border-top:none;border-left:n=
+one;
+  width:137pt'>Steven Guilbeault</td>
+  <td class=3Dxl6730230 width=3D0>10</td>
+  <td class=3Dxl6730230 width=3D0>0</td>
+  <td class=3Dxl8430230>Les Disciples de Yaourt</td>
+  <td class=3Dxl8430230>Bruno Morin</td>
+  <td class=3Dxl8430230>97</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6553530230 style=3D'height:15.0pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10630230>Les Disciples de Yaourt</td>
+  <td class=3Dxl10730230>325</td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6553530230 style=3D'height:15.0pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10830230>Les Herbizarres</td>
+  <td class=3Dxl10930230>380</td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl6553530230 style=3D'height:12.75pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl8430230></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl10530230 width=3D168 style=3D'width:126pt'></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl6553530230 style=3D'height:14.25pt'></td>
+  <td class=3Dxl6330230 width=3D438 style=3D'width:329pt'></td>
+  <td class=3Dxl6330230 width=3D182 style=3D'width:137pt'></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl6330230 width=3D0></td>
+  <td class=3Dxl10530230 width=3D177 style=3D'width:133pt'></td>
+  <td class=3Dxl6430230></td>
+  <td class=3Dxl6553530230></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D24 style=3D'width:18pt'></td>
+  <td width=3D438 style=3D'width:329pt'></td>
+  <td width=3D182 style=3D'width:137pt'></td>
+  <td width=3D0></td>
+  <td width=3D0></td>
+  <td width=3D177 style=3D'width:133pt'></td>
+  <td width=3D168 style=3D'width:126pt'></td>
+  <td width=3D0></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>
+
