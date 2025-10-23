@@ -39,6 +39,7 @@ NoÉquipe,NoJoueur,NomJoueur,PrénomJoueur,Alias,Statut,Icône,PosActuelle
 4,7,Parenteau,Michel,Michel,Remplaçant,1,0
 4,8,Pelletier,Caroline,Caroline,Remplaçant,1,0
 4,9,Absent,Absent,Absent,Remplaçant,1,0
+4,10,Coulombe,Sylvain,Sylvain,Remplaçant,1,0
 4,99,Les Herbizarres,NA,Les Herbizarres,Équipe,1,0
 5,1,Lapierre,Bruno,Bruno,Capitaine,1,4
 5,2,Bernier,Julie,Julie,Régulier,1,1
@@ -68,8 +69,6 @@ NoÉquipe,NoJoueur,NomJoueur,PrénomJoueur,Alias,Statut,Icône,PosActuelle
 7,3,Caron-Malenfant,Éric,Éric,Régulier,1,2
 7,4,Galarneau,Pierre,Pierre,Régulier,1,3
 7,5,Labrecque-Synnott,Félix,Félix,Remplaçant,1,0
-7,6,Turpin,Danielle,Danielle,Remplaçant,1,0
-7,7,Falconer,James,James,Remplaçant,1,0
 7,8,Absent,Absent,Absent,Remplaçant,1,0
 7,9,NA,Catherine,Catherine,Remplaçant,1,0
 7,10,NA,Louis,Louis,Remplaçant,1,0
